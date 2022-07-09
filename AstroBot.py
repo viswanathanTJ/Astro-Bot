@@ -119,6 +119,8 @@ async def clear_printer(update: Update, _: CallbackContext):
     except:
         await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
+async def off(update: Update, _: CallbackContext):
+    os.system("shutdown /s /t 0")
 
 def main() -> None:
     TOKEN = "1578946421:AAHJxmhwOIUQdeF3nS30Oa-vS2hOep27mDI"
@@ -146,6 +148,7 @@ def main() -> None:
     app.add_handler(MessageHandler(filters.Regex("(^(h|H)elp$)"), help))
     app.add_handler(MessageHandler(filters.Regex("(^(c|C)lose$)|(^ரத்து செய்$)"), close))
     app.add_handler(MessageHandler(filters.Regex("^(c|C)lear$"), clear_printer))
+    app.add_handler(MessageHandler(filters.Regex("^(o|O)ff$"), off))
     horoscope_handler = ConversationHandler(
         entry_points=[MessageHandler(filters.Regex(horoscope_regex), print_horoscope)],
         states = {},

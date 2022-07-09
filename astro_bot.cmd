@@ -1,3 +1,3 @@
 @echo off
 title Astro Bot
-python D:\Scripts\Astro-Bot\AstroBot.py
+python C:\Apps\Astro-Bot\AstroBot.py
