@@ -35,16 +35,19 @@ async def print_horoscope(update: Update, _: CallbackContext):
     print_done, scan_done = False, False
     msg = update.message.text
     logger.info("Details entered %s", msg)
-    data = re.split(r"\s|\n|-|/|\.|,", msg)
-    user = User(data)
-    place = utilities.check_city(user.place.lower())
-    if place is None:
-        await update.message.reply_text("பிறந்த ஊர் திருத்தம் செய்யவும்")
-        return
-    await update.message.reply_text(user.get_user())
-    print_done = False
-    utilities.horoscope(user)
-    await update.message.reply_text("கீழே உள்ள ஆப்சனை க்லிக் செய்யவும்", reply_markup=reply_markup)
+    try:
+        data = re.split(r"\s|\n|-|/|\.|,", msg)
+        user = User(data)
+        place = utilities.check_city(user.place.lower())
+        if place is None:
+            await update.message.reply_text("பிறந்த ஊர் திருத்தம் செய்யவும்")
+            return
+        await update.message.reply_text(user.get_user())
+        print_done = False
+        utilities.horoscope(user)
+        await update.message.reply_text("கீழே உள்ள ஆப்சனை க்லிக் செய்யவும்", reply_markup=reply_markup)
+    except:
+        await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
 async def close(update: Update, _: CallbackContext):
     utilities.cancel()
@@ -52,35 +55,41 @@ async def close(update: Update, _: CallbackContext):
 
 async def print_confirm(update: Update, _: CallbackContext):
     global print_done, send_done
-    flag, msg = utilities.confirm_print()
-    if flag:
-        print_done = True
-        if send_done:
-            await update.message.reply_text("பிரிண்ட் செய்யப்பட்டது", reply_markup=ReplyKeyboardRemove())
-            utilities.cancel()
-        await update.message.reply_text(text="பிரிண்ட் செய்யப்பட்டது", reply_markup=ReplyKeyboardMarkup([['அனுப்பு'],['ரத்து செய்']], resize_keyboard=True, one_time_keyboard=True))
-    else:
-        if scan_done:
-            keyboard = [['அனுப்பு'],['ரத்து செய்']]
-            await update.message.reply_text(msg, reply_markup=ReplyKeyboardMarkup(keyboard), resize_keyboard=True, one_time_keyboard=True)
+    try:
+        flag, msg = utilities.confirm_print()
+        if flag:
+            print_done = True
+            if send_done:
+                await update.message.reply_text("பிரிண்ட் செய்யப்பட்டது", reply_markup=ReplyKeyboardRemove())
+                utilities.cancel()
+            await update.message.reply_text(text="பிரிண்ட் செய்யப்பட்டது", reply_markup=ReplyKeyboardMarkup([['அனுப்பு'],['ரத்து செய்']], resize_keyboard=True, one_time_keyboard=True))
         else:
-            await update.message.reply_text(msg, reply_markup=reply_markup)
+            if scan_done:
+                keyboard = [['அனுப்பு'],['ரத்து செய்']]
+                await update.message.reply_text(msg, reply_markup=ReplyKeyboardMarkup(keyboard), resize_keyboard=True, one_time_keyboard=True)
+            else:
+                await update.message.reply_text(msg, reply_markup=reply_markup)
+    except:
+        await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
 async def send_horoscope(update: Update, _: CallbackContext):
     global send_done, print_done
     await update.message.reply_text("ஜாதகம் அனுப்படுகிறது...", reply_markup=ReplyKeyboardRemove())
-    res = utilities.send()
-    if not res:
-        await update.message.reply_text("ஜாதகம் இல்லை. டீடைல் அனுப்பவும்")
-        return
-    path = "C:\\KkcAstro\\horoscope copy.jpg"
-    send_done = True
-    if print_done:
-        await update.message.reply_text("அப்லோட் ஆகிறது..", reply_markup=ReplyKeyboardRemove())
-        utilities.cancel()
-    await update.message.reply_text("அப்லோட் ஆகிறது..", reply_markup=ReplyKeyboardMarkup([['பிரிண்ட்'],['ரத்து செய்']], resize_keyboard=True, one_time_keyboard=True))
-    await update.message.reply_photo(open(path, 'rb'))
-    await update.message.reply_document(open(path, 'rb'))
+    try:
+        res = utilities.send()
+        if not res:
+            await update.message.reply_text("ஜாதகம் இல்லை. டீடைல் அனுப்பவும்")
+            return
+        path = "C:\\KkcAstro\\horoscope copy.jpg"
+        send_done = True
+        if print_done:
+            await update.message.reply_text("அப்லோட் ஆகிறது..", reply_markup=ReplyKeyboardRemove())
+            utilities.cancel()
+        await update.message.reply_text("அப்லோட் ஆகிறது..", reply_markup=ReplyKeyboardMarkup([['பிரிண்ட்'],['ரத்து செய்']], resize_keyboard=True, one_time_keyboard=True))
+        await update.message.reply_photo(open(path, 'rb'))
+        await update.message.reply_document(open(path, 'rb'))
+    except:
+        await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
 async def scan_horoscope(update: Update, _: CallbackContext):
     logger.info("Scanning horoscope for %s", update.message.text)
@@ -88,28 +97,28 @@ async def scan_horoscope(update: Update, _: CallbackContext):
     logger.info("File name %s", name)
     path = "I:\\Customers\\Horoscope"
     fpath = os.path.join(path, name)
-    print('path', fpath)
-    if os.path.exists(fpath):
-        await update.message.reply_text("வேறு பெயரை போடவும்")
-        return
-    await update.message.reply_text("ஸ்கேன் ஆகிறது...")
-    status = utilities.scan(fpath)
-    if status:
-        await update.message.reply_photo(open(fpath, 'rb'))
-        await update.message.reply_document(open(fpath, 'rb'))
-        utilities.send_whatsapp(fpath)
-    else:
-        await update.message.reply_text("பிரின்டர் ஆன் பண்ணவும்")
+    try:
+        if os.path.exists(fpath):
+            await update.message.reply_text("வேறு பெயரை போடவும்")
+            return
+        await update.message.reply_text("ஸ்கேன் ஆகிறது...")
+        status = utilities.scan(fpath)
+        if status:
+            await update.message.reply_photo(open(fpath, 'rb'))
+            await update.message.reply_document(open(fpath, 'rb'))
+            utilities.send_whatsapp(fpath)
+        else:
+            await update.message.reply_text("பிரின்டர் ஆன் பண்ணவும்")   
+    except:
+        await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
 async def clear_printer(update: Update, _: CallbackContext):
-    utilities.delete_print_queue()
-    await update.message.reply_text("Cleared all queues")
+    try:
+        utilities.delete_print_queue()
+        await update.message.reply_text("Cleared all queues")
+    except:
+        await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
-async def cancel(update: Update, _: CallbackContext):
-    user = update.message.from_user
-    logger.info("User %s canceled the conversation.", user.first_name)
-    await update.message.reply_text("Cancelled")
-    return ConversationHandler.END
 
 def main() -> None:
     TOKEN = "1578946421:AAHJxmhwOIUQdeF3nS30Oa-vS2hOep27mDI"
