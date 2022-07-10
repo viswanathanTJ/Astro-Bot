@@ -115,13 +115,17 @@ def fill_location(place):
         p.hotkey('alt', 'e')
         load_foreign()
 
+def is_printer_off():
+    phandle = win32print.OpenPrinter('HP LaserJet M1005')
+    attributes = win32print.GetPrinter(phandle)[13]
+    is_offline = (attributes & 0x00000400) >> 10
+    if is_offline:
+        return True
+    return False
 
 def confirm_print():
     if "KKcAstro.exe" in (p.name() for p in psutil.process_iter()):
-        phandle = win32print.OpenPrinter('HP LaserJet M1005')
-        attributes = win32print.GetPrinter(phandle)[13]
-        is_offline = (attributes & 0x00000400) >> 10
-        if is_offline:
+        if not is_printer_off():
             return False, 'பிரின்டர் ஆன் பண்ணவும்'
         p.click(218, 33)
         p.click(360, 413)
@@ -147,8 +151,9 @@ def send():
         os.startfile("C:\Program Files\Adobe\Adobe Photoshop CS4 (64 Bit)\Photoshop.exe")
         sleep(2)
         p.hotkey('ctrl', 'o')
-        p.typewrite(file_path)
         sleep(.5)
+        p.typewrite(file_path)
+        sleep(.2)
         p.press('enter')
         p.press('enter')
         p.press('f3')
@@ -184,10 +189,7 @@ def delete_print_queue():
     
 
 def scan(fpath):
-    phandle = win32print.OpenPrinter('HP LaserJet M1005')
-    attributes = win32print.GetPrinter(phandle)[13]
-    is_offline = (attributes & 0x00000400) >> 10
-    if is_offline:
+    if is_printer_off():
         print('Printer is offline')
         return False
     p.hotkey('win', 'down')

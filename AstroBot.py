@@ -45,7 +45,7 @@ async def print_horoscope(update: Update, _: CallbackContext):
         await update.message.reply_text(user.get_user())
         print_done = False
         utilities.horoscope(user)
-        await update.message.reply_text("கீழே உள்ள ஆப்சனை க்லிக் செய்யவும்", reply_markup=reply_markup)
+        await update.message.reply_text("கீழே உள்ள ஆப்சனை க்லிக் செய்யவும்", reply_markup=global_reply_markup)
     except:
         await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
@@ -132,7 +132,7 @@ def main() -> None:
         )
     app = Application.builder().token(TOKEN).read_timeout(15).build()
     delimiter = "(\/|-|\.|\s|,)"
-    gender_regex = "(ஆண்|பெண்|female|male|a|p|m|f|M|F|A|P)"
+    gender_regex = "(ஆண்|பெண்|female|male|a|p|m|f|M|F|A|P|Aan|Pen|aan|pen)"
     dob_regex = "(([1-9])|([0][1-9])|([1-2][0-9])|([3][0-1]))"+delimiter+"([1-9]|([0][1-9]|([1][0-2])))"+delimiter+"\d{4}"
     time_regex = "([1-9]|([0][1-9])|([1][0-2]))"+delimiter+"([1-9]|([0-5][0-9]))"
     m_regex = "((a|p)m|a|p|(A/P)(M/m)|காலை|மாலை)"
@@ -167,6 +167,6 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    reply_markup = ReplyKeyboardMarkup([['பிரிண்ட்','அனுப்பு'],['ரத்து செய்']], resize_keyboard=True, one_time_keyboard=True)
+    global_reply_markup = ReplyKeyboardMarkup([['பிரிண்ட்','அனுப்பு'],['ரத்து செய்']], resize_keyboard=True, one_time_keyboard=True)
     print_done, scan_done = False, False
     main()
