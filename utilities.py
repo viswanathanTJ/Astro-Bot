@@ -7,6 +7,7 @@ import win32print
 from geopy.geocoders import Nominatim
 import subprocess
 import pyperclip
+from AstroBot import logger
 
 location = None
 
@@ -136,13 +137,18 @@ def confirm_print():
     return False, 'ஜாதகம் இல்லை. டீடைல் அனுப்பவும்'
 
 def send():
-    if "KKcAstro.exe" in (p.name() for p in psutil.process_iter()):
+    plist = (p.name() for p in psutil.process_iter())
+    if "KKcAstro.exe" in plist:
         file_name = "horoscope"
         file_path = "C:\KkcAstro\horoscope.pdf"
         if os.path.exists(file_path):
+            logger.info("Removed %s", file_path)
             os.remove(file_path)
         if os.path.exists("C:\KkcAstro\horoscope.jpg"):
+            logger.info("Removed %s", file_path)
             os.remove("C:\KkcAstro\horoscope copy.jpg")
+        # if "Photoshop.exe" in plist:
+        #     os.system("TASKKILL /F /IM Photoshop.exe")
         p.press('esc')
         p.click(325, 35)
         sleep(.2)
@@ -174,12 +180,13 @@ def check_city(name):
     location = None
     with open('india.txt', 'r') as f:
         if name in f.read():
+            logger.info('Found city in india.txt')
             return True
     geolocator = Nominatim(user_agent="viswa_2k")
     location = geolocator.geocode(name, exactly_one=True, addressdetails=True)
     if location is None:
         return None
-    print(location.raw['address'])
+    logger.info('Found city by API', location.raw['address'])
     return True
 
 def delete_print_queue():
@@ -187,7 +194,7 @@ def delete_print_queue():
     print_jobs = win32print.EnumJobs(phandle, 0, -1, 1)
     for job in print_jobs:
         win32print.SetJob(phandle, job['JobId'], 0, None, win32print.JOB_CONTROL_DELETE)
-    print(f'Deleted {len(print_jobs)} jobs')
+    logger.info("Deleted %s jobs", len(print_jobs))
     win32print.ClosePrinter(phandle)
     
 
@@ -208,6 +215,7 @@ def scan(fpath):
     sleep(20)
     p.hotkey('alt', 'f4')
     os.rename('I:\\Customers\\Horoscope\\IMG.jpg', fpath)
+    logger.info('Scanned successfully')
     return True
 
 def send_whatsapp(fpath):
@@ -236,4 +244,4 @@ def send_whatsapp(fpath):
     sleep(1)
     # p.hotkey('ctrl', 'x') # send icon
     p.click(1710, 972) # send icon
-
+    logger.info('Sent successfully')
