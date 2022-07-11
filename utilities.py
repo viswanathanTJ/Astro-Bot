@@ -110,12 +110,9 @@ def fill_location(place):
     p.typewrite(long[0]+long[1])
     p.press('tab')
     p.typewrite(long[2])
-    if country != 'India':
+    if country != 'India' and code != 'lk':
         p.click(1236, 633)
-        if code.lower() == 'lk':
-            p.typewrite('Sri Lanka')
-        else:
-            p.typewrite(country)
+        p.typewrite(country)
         p.hotkey('alt', 'e')
         load_foreign()
 
