@@ -129,7 +129,7 @@ def is_printer_off():
 
 def confirm_print():
     if "KKcAstro.exe" in (p.name() for p in psutil.process_iter()):
-        if not is_printer_off():
+        if is_printer_off():
             return False, 'பிரின்டர் ஆன் பண்ணவும்'
         p.click(218, 33)
         p.click(360, 413)

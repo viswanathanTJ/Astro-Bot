@@ -1,17 +1,27 @@
+city
+aachen  ger.
+abdullahpur  har. india.
 abdullapuram  t.n. india
 abdullapuram, thiruvannamalai dt.  t.n. india
 abdullapuram, vellore dt.  t.n. india
 abiramam  t.n. india
+abiramapuram  t.n. india.
 abisekhapuram  t.n. india
+abohar  pun. india.
+abu dhabi  uae.
 achakuttapattipudur  t.n. india
 achampatti  t.n. india
 achampet  a.p. india
 achanta  a.p. india
 acharappakkam  t.n. india
 adaikalapuram  t.n. india
+adams  ne, usa.
+adams bridge  s. l.
+adams peak  s. l. 
 adavathoor  t.n. india
 addanki  a.p. india
 addatigala  a.p. india
+addison  vt, usa.
 adegaon  m.p. india
 adhamangalam  t.n. india
 adhanoor  t.n. india
@@ -23,10 +33,17 @@ adukkam  t.n. india
 adukkani  t.n. india
 aduthurai  t.n. india
 agaram  t.n. india
+agartala  tri. india.
 agastheeswaram  t.n. india
 agasthiyampalli  t.n. india
+agen  fran.
 aghil pass  j&k. india
 agil dawan pass  j&k. india
+agumbe  kar. india.
+ahmadabad
+ailnabad  har. india.
+aimangula  kar. india.
+ajnala  pun. india.
 akaram  t.n. india
 akkalur, ramanad dt.  t.n. india
 akkiyampatti  t.n. india
@@ -42,8 +59,10 @@ alagiyapandipuram  t.n. india
 alagiyapandipuram, trichy dt.  t.n. india
 alagumalai  t.n. india
 alakkudi  t.n. india
+alamosa  co, usa.
 alampatti  t.n. india
 alampur,  a.p. india
+aland,  kar. india.
 alandurai  t.n. india
 alanganallur  t.n. india
 alanganatham  t.n. india
@@ -57,7 +76,15 @@ alapakkam  t.n. india
 alappatti  t.n. india
 alaruthipatti  t.n. india
 alathur  t.n. india
+alawalpur  pun. india.
 albaka  a.p. india
+albany, ny  usa.
+albemarle  va, usa.
+alcorn  ms, usa.
+aleutians east  ak, usa.
+alfalfa  ok, usa.
+alger  mi, usa.
+alikhar  kar. india.
 alipore  w.b. india
 alipur duar  w.b. india
 aliyabad  t.n. india
@@ -65,10 +92,19 @@ aliyar dam  t.n. india
 allagadda  a.p. india
 allah durg  a.p. india
 allathur, thiruvannamalai dt.  t.n. india
+allegany  ny. usa.
+allegany, md  usa.
+alleghany, va  usa.
+allen, in,  usa.
+allen, ky  usa.
+allen, la  usa.
+allen, oh  usa.
 alleppey  ker. india
+allikher  kar. india.
 allikuntham  t.n. india
 allinagaram  t.n. india
 allur  a.p. india
+alpena  mi, usa.
 alur  a.p. india
 alur  t.n. india
 alvaramalai  t.n. india
@@ -85,13 +121,16 @@ amathur  t.n. india
 amavayal  t.n. india
 amayapuram  t.n. india
 ambalakaranpatti  t.n. india
+ambalangoda  s.l.
 ambalapulai  ker. india
 ambalavayal  t.n. india
+ambasa  tri. india.
 ambasamudram  t.n. india
 ambathura  t.n. india
 ambattur  t.n. india
 ambaturai  t.n. india
 ambur  t.n. india
+amelia  va. usa.
 amirthi  t.n. india
 ammanichathiram  t.n. india
 ammapattanam  t.n. india
@@ -104,6 +143,8 @@ ammayandivila  t.n. india
 ammoor  t.n. india
 amoor  t.n. india
 amrabad  a.p. india
+amritsar  pun. india.
+anadapuram  kar. india.
 anai mydi  ker. india
 anaikaranchathiram  t.n. india
 anaikatti  t.n. india
@@ -115,14 +156,20 @@ anaithandavapuram  t.n. india
 anakapalle  a.p. india
 anakkavur  t.n. india
 anamalai  t.n. india
+anandpur sahib  pun. india.
 anandur  t.n. india
 anantapur  ori. india
 ananthapur  a.p. india
+anasco  pr, usa.
 anchetti  t.n. india
+anchorage  ak, usa.
 andal  a.p. india
 andankoil  t.n. india
 andanoor  t.n. india
 andarkuppam  t.n. india
+anderson, ky  usa.
+anderson, sc  usa.
+anderson, tx  usa.
 andhanallur  t.n. india
 andikkavundanoor  t.n. india
 andimadam  t.n. india
@@ -130,21 +177,30 @@ andippatti  t.n. india
 andiyappanur  t.n. india
 andiyur  t.n. india
 andol  a.p. india
+andola  kar. india.
+androscoggin  me, usa.
+anekal  kar. india.
 angadipuram  ker. india
 angalakkuruchi  t.n. india
 anikkadavu  t.n. india
 anjengo  ker. india
+anjidip island  kar. india.
+ankola  kar. india.
 ankul  t.n. india
 annamalainagar  t.n. india
 annamangalam  t.n. india
 annavasal  t.n. india
 annur  t.n. india
+anoka   mn, usa.
 anthevanpalli  t.n. india
 anthiyur  t.n. india
+antrim  mi, usa.
 anumananthal  t.n. india
 anumantheertham  t.n. india
 anumathappatti  t.n. india
 anuppankulam  t.n. india
+anuradhapura  s.l.
+apache  az, usa.
 appannallur  t.n. india
 appanoothu  t.n. india
 arachalur  t.n. india
@@ -158,6 +214,7 @@ arampakkam  t.n. india
 arani  t.n. india
 arani road  t.n. india
 arani, thiruvallur dt.  t.n. india
+aransas  tx, usa.
 aranthangi  t.n. india
 arasamalai  t.n. india
 arasattikombai  t.n. india
@@ -168,6 +225,7 @@ aravali hills  raj. india
 aravangadu  t.n. india
 aravanu  t.n. india
 araviputtur  t.n. india
+archuleta  co, usa.
 arcot  t.n. india
 arigam  j&k. india
 arimanam  t.n. india
@@ -178,21 +236,31 @@ ariyalur  t.n. india
 ariyamangalam  t.n. india
 ariyanayakipuram  t.n. india
 ariyur  t.n. india
+arkalgud  kar. india.
+arkansas  ar, usa.
 arkonam  t.n. india
 armagon  a.p. india
+armstrong  tx, usa.
+armstrong,  pa,usa.
 armur  a.p. india
 arni  t.n. india
+aroostook  me, usa. 
 arpalli  mah. india
+arran is.  u.k.
+arsikere  kar. india.
 arulvaimozhi  t.n. india
 arungunram  t.n. india
 arunoothumalai  t.n. india
 aruppukkottai  t.n. india
 aruppukottai  t.n. india
+aruvi  s.l.
 aruvikkarai  t.n. india
 asanalathur  t.n. india
 asanallur  t.n. india
 asanampattu  t.n. india
 asanoor  t.n. india
+ashland  wi, usa.
+ashley  ar, usa.
 ashta  mah. india
 ashti, wardha  mah. india
 asifabad  a.p. india
@@ -200,19 +268,29 @@ asind  raj. india
 asirvathapuram  t.n. india
 askole  j&k. india
 asope  raj. india
+asotin  wa, usa.
+aspiring   mt, n.z.
 aspur  raj. india
 astor  j&k. india
+atascosa  tx, usa.
+atchison  ks, usa.
 athamallik  ori. india
 athani  t.n   india
 athani, pudukkotai dt.  t.n. india
+athens  gre.
 athippadi  t.n. india
 athiramapattanam  t.n. india
 athirangam  t.n. india
 athiyamankottai  t.n. india
+athni  kar. india.
 atirampattinam  t.n. india
+atkinson  ga, usa.
+atlantic  nj, usa.
 atmakur, karim nagar  a.p. india
 atmakur, kurnool  a.p. india
 atmakur, nellore  a.p. india
+atnur  kar. india.
+atoka  ok, usa.
 atpadi  mah. india
 attapadi  ker. india
 atthanur  t.n. india
@@ -222,7 +300,10 @@ attur,  kanchipuruam dt.  t.n. india
 attur,  karu dt.  t.n. india
 attur, madurai  t.n. india
 attur, salem dt.  t.n. india
+augustus  mt, astr.
+aurad  kar. india.
 aurangabad  mah. india
+aurora  sd, usa.
 auroville  t.n. india
 ausa  mah. india
 avadi  t.n. india
@@ -233,6 +314,7 @@ avanashi  t.n. india
 avanashipalayam  t.n. india
 avanijadda  a.p. india
 avarakuppam  t.n. india
+avon  u.k.
 avudayapuram  t.n. india
 avudayarkovil  t.n. india
 awantipura  j&k. india
@@ -250,16 +332,30 @@ ayyapuram  t.n. india
 azhikal  ker. india
 babuhri  raj. india
 babusa pass  j&k. india
+bacan   gr, ingo.
+bacon  ga, usa.
 badakasira  a.p. india
+badami  kar. india.
 badnera  mah. india
 badnor  raj. india
+badulla  s.l.
 badvel  a.p. india
+baffin b.  nwt, can.
+bagalkot  kar. india.
 bagalur  t.n. india
+bagepalli  kar. india.
+bagevadi  kar. india.
 bagh,  j&k. india
+bahadurgarh,  har. india.
 bahalda  ori. india
 bahrar  m.p. india
 baikunthpur  m.p. india
+bailey  tx, usa.
+bainduru  kar. india.
 bajna  m.p. india
+baker  or, usa.
+baker fl  usa.
+baker,  ga, usa.
 bakswaha  m.p. india
 balakrishnampatti  t.n. india
 balamputhur  t.n. india
@@ -267,7 +363,11 @@ balapur  mah. india
 balasamudram  t.n. india
 baleshwar  ori. india
 balkonda  a.p. india
+balla  tri. india.
+ballabgarh  har. india.
+ballarpur  kar. india.
 balliguda  ori. india
+baltimore  md, usa.
 baltistan  j&k. india
 balurghat  w.b. india
 bamanhat  w.b. india
@@ -279,15 +379,21 @@ banda.  m.p. india
 bandamurlanka  a.p. india
 bandoyan  w.b. india
 banduan  w.b. india
+bangalore  kar. india.
 banganapalle  a.p. india
+bangarapet  kar. india.
+bangkok  thai.
 bangriposi  ori. india
 banihalpass  j&k. india
+bankapur  kar. india.
 bankdaha  w.b. india
 banki  ori. india
 bankigarh  ori. india
+bann  u.k.
 banruti  t.n. india
 bansihari  w.b. india
 banswada  a.p. india
+bantwal  kar. india.
 bapatla, guntur  a.p. india
 bapatla, parkasam  a.p. india
 bara jorda  w.b. india
@@ -295,43 +401,105 @@ barabhum  w.b. india
 barakpur  w.b. india
 barasat  w.b. india
 barauda  m.p. india
+barber  ks, usa.
+barbour  wv. usa.
+barceloneta  pr, usa.
 barddahamau  w.b. india
 barengapara  meg. india
 bargur  t.n. india
 bargur, erode dt.  t.n. india
+barnet  u.k.
+barnstable  ma, usa.
+barra is  u.k.
 barrackpore  w.b. india
+barranquitas  pr, usa.
+barron  wi, usa.
+bartow  ga, usa.
 baruipur  w.b. india
 baruva  a.p. india
+barwala  har. india.
+basi, patiala  pun. india.
+basildon  u.k.
 basirhat  w.b. india
 basoli  j&k. india
 basuvanpuram  t.n. india
+batala  pun. india.
+bath  va, usa.
+bath,  ky, usa.
+batticaloa  s.l.
+bawal  har. india.
+baxter  ar, usa.
+bay  fl, usa.
+bayfield  wi, usa.
+beas dam   pun. india.
+beaufort, nc,  usa.
+beaver ,ut  usa.
+beaver, ok,  usa.
+beaver, pa,  usa.
+becker  mn, usa.
+bedfford va,  usa.
+bedfor, pa,  usa.
 beemarappattu  t.n. india
 bekal  ker. india
 belakuli  t.n. india
 belasoor  t.n. india
+belfast  u.k.
+belgaum  kar. india.
+bell  ky, usa.
 bellamkonda  a.p. india
+bellaru  kar. india.
+bellary  kar. india.
+belonia  tri. india.
+belukha  mt, rus.
 belukuruchi  t.n. india
+belur  kar. india.
 belur, coimbatore dt.  t.n. india
 belur, salem dt.  t.n. india
+ben hill  ga, usa.
+ben macdui  mt, u.k.
+ben nevis  mt, u.k.
+bennington  vt, usa.
+benson  nd, usa.
+benton ar  usa.
+benton ia  usa.
+benton in  usa.
+benton mn  usa.
+benton mo  usa
+benton ms  usa.
+benton tn  usa.
+benton wa  usa.
 berasia  m.p. india
+bergen  nj, usa.
 berhampur  ori. india
 berhampur,  w.b. india
 berigai  t.n. india
+berkeley  wv, usa.
+berkeley,  sc, usa.
+berkshire  ma, usa.
+berlin  ger.
+bernalillo  nm, usa.
+besar  mt, indo.
 beshnagar  m.p. india
 bethamukalam  t.n. india
 bethanaickenpalayam  t.n. india
 betul  m.p. india
+bexar  tx, usa.
 beypore  ker. india
+beziers  fran.
 bhadaura  m.p. india
+bhadra  kar. india.
 bhadrachalam  a.p. india
 bhadrakal  w.b. india
+bhadravati  kar. india.
 bhaganeri  t.n. india
 bhagavathipuram  t.n. india
 bhainsa  a.p. india
 bhaisa  a.p. india
+bhalki  kar. india.
 bhaluka  w.b. india
 bhandaria  u.p. india
 bhatar  w.b. india
+bhatkal  kar. india.
 bhatpara  w.b. india
 bhaunbari  u.p. india
 bhavani  t.n. india
@@ -347,14 +515,23 @@ bhrammadesam  t.n. india
 bhubaneswar  ori. india
 bhuvanagiri  t.n. india
 bhuvani  t.n. india
+bibb  al, usa.
+bibile  s.l.
 bicholim  goa. india
+bidar  kar. india.
+bielefeld  ger.
+big horn  wy, usa.
+big stone  mn, usa,
 bilaspur.,  h.p. india
 bilheri  m.p. india
 bilidh  ori. india
 bimgal  a.p. india
 bimlipatam  a.p. india
 bina  m.p. india
+birur  kar. india.
+bishenpur  man.
 bissamcuttack  ori. india
+blount  tn, usa.
 bobbili  a.p. india
 bodhan  a.p. india
 bodinaickanur  t.n. india
@@ -363,26 +540,188 @@ bodippatti  t.n. india
 bolarum  a.p. india
 bolur  t.n. india
 bolur, thiruvannamalai dt.  t.n. india
+bombay
 bommikuppam  t.n. india
+bon homme  sd, usa.
+bonn  ger.
+bonne mo,  usa.
+bonneville  id, usa.
+boone ar,   usa.
+boone ia  usa.
+boone il  usa.
+boone in  usa.
+boone ky,   usa.
+boone ne,   usa.
+boone wv,  usa.
 boothaloor  t.n. india
 boothapandi  t.n. india
 boothipuram  t.n. india
+bordern  tx, usa.
 borgao  ori. india
 borondi  ori. india
+bosque  tx, usa.
+bottineau  nd, usa.
+bourbon  ky, usa
+bournemouth  u.k.
+bowie  tx. usa.
+box butte  ne, usa.
+bradford  pa, usa.
+bradford fl,  usa.
+bradford,  u.k.
+bradley,  ab, usa.
+braxton  wv, usa.
+brazos  tx, usa.
+breckinridge  ky, usa
+brighton   u.k.
+bristol  va, usa.
+bristol bay  ak, usa.
+bristol ma  usa.
+bristol ri,  usa.
+bristol,  u.k.
+brook  wv, usa.
+brookings  sd, usa.
+broome  ny, usa.
+brown il  usa.
+brown in  usa.
+brown mn  usa.
+brown ne  usa.
+brown oh  usa.
+brown tx  usa.
+brown wi  usa.
+brunswick  va, usa.
+brunswick nc  usa.
+bryan ga,  usa.
+bryan ok,  usa.
+buchanan ia,  usa.
+buchanan mo,  usa.
+buchanan va  usa.
+buckingham  va, usa.
 buddireddipatti  t.n. india
+buena vista,  va, usa.
+buffalo ne  usa.
+buffalo sd  usa.
+buffalo wi  usa.
 bukkapatnam  a.p. india
 burda  m.p. india
 burgur  t.n. india
 burhanpur  m.p. india
+burke ga,  usa.
+burke nc  usa.
+burlington  nj, usa.
+burt  ne, usa.
 burzil pass  j&k. india
+butana  har. india.
+butler al  usa.
+butler ia  usa,
+butler ks  usa.
+butler ky  usa.
+butler mo  usa.
+butler ne  usa.
+butler oh  usa.
+butler pa  usa.
+butte  ca, usa.
+butte,  id, usa.
 buvanagiri  t.n. india
 buvanoor  t.n. india
+byadgi  kar. india.
+bylot i  nwt, can.
+c. olombo  s.l.
+cabell  wv, usa.
+cache  ut, usa.
+caddo la  usa.
+caddo ok  usa.
+caguas  pr, usa.
+caicos is  u.k.
+calaveras  ca, usa.
+calcutta
+caldwell ky,  usa.
+caldwell mo  usa.
+caldwell nc  usa.
+caldwell tx  usa.
+calhoun al  usa.
+calhoun ar  usa.
+calhoun fl  usa.
+calhoun ga  usa.
+calhoun ia  usa.
+calhoun il  usa.
+calhoun ms  usa
+calhoun sc  usa.
+calhoun wv  usa.
 calicut  ker. india
+callaway  mo, usa.
+calumet  wi, usa.
+calvert  md, usa.
+cambridge,  u.k.
+camden mo  usa.
+camden nc  usa.
+camden nj  usa.
+cameron la  usa.
+cameron pa,  usa.
+cameron tx  usa.
+camp  tx, usa.
+campbell ky  usa.
+campbell sd  usa.
+campbell tn  usa.
+campbell va  usa.
+canadian  ok, usa.
+canna i  u.k.
 cannanore  ker. india
+canovanas  pr, usa.
+canyon  id, usa.
+cape may  nj, usa.
+cape town  s.a.
+carbon  ut, usa.
+carbon pa  usa.
+carbon wy  usa.
+cardiff  u.k.
+carlisle  u.k.
+carlisle,  ky, usa.
+carn eige  u.k.
+caroline md  usa.
+caroline va  usa.
+carroll ar  usa.
+carroll ga  usa.
+carroll ia  usa.
+carroll il  usa.
+carroll ky  usa.
+carroll mo  usa.
+carroll ms  usa.
+carroll nh  usa.
+carroll oh  usa.
+carroll tn  usa.
+carroll va  usa.
+carson city  nv, usa.
+carter ky  usa.
+carter mo  usa.
+carter mt  usa.
+carter ok  usa.
+carter tn  usa.
+cass il  usa.
+cass in  usa.
+cass mi  usa.
+cass mn  usa.
+cass mo  usa.
+cass tx  usa.
+castle rock  kar. india.
+caswell  nc, usa.
+catano  pr, usa.
+catoosa  ga, usa.
+cattaraugus  ny, usa.
+cavalier  nd, usa.
+cayey  pr, usa.
+cayuga  ny, usa.
+cedar  mo  usa.
+cedar ia  usa.
+cedar ne  usa.
+centre  pa, usa.
+cevennes  fran.
 chabdragiri  a.p. india
 chadurvedamangalam  t.n. india
 chagalamurry  a.p. india
+chaikodi  kar. india.
+challakere  kar. india.
 champua  ori. india
+chamrajnagar  kar. india.
 chanarppatti  t.n. india
 chandbali  ori. india
 chandivanam  t.n. india
@@ -397,17 +736,34 @@ chandur, amraoti,  mah. india
 changanacheri  ker. india
 changlung  j&k. india
 changlung pass  j&k. india
+channagiri  kar. india.
+channapatna  kar. india.
+channaravapatna  kar. india.
+chapa fong  mt, miz.
+charles  md, usa.
+charles city  va, usa.
+charleston  sc, usa.
+charlottetown  p.e. can.
+chase  ne, usa.
+chassad  man.
 chathirappatti  t.n. india
 chaukhamba  mt, u.p. india
 chaul  mah. india
+chaumont  fran.
 chauragarh  m.p. india
+chautaugua  ks, usa.
+chautaugua,  ny, usa.
+chaves  nm, usa.
+cheboygan  mi, usa.
 chedubavachathiram  t.n. india
 chegippatti  t.n. india
 chekkarakkudi  t.n. india
 chelakara  ker. india
+chelan  wa, usa.
 chellamudi  t.n. india
 chellipalayam  t.n. india
 chemplast  t.n. india
+chenango  ny, usa.
 chengalpatta  t.n. india
 chengam  t.n. india
 chengapalli  t.n. india
@@ -419,15 +775,40 @@ cherakkulam  t.n. india
 cheramnahadevi  t.n. india
 cheria  a.p. india
 cherial  a.p. india
+cherokee  sc, usa.
+cherokee al  usa.
+cherokee ga  usa.
+cherokee ia  usa.
+cherokee ks  usa.
+cherokee nc  usa.
+cherokee ok  usa.
+cherokee tx  usa.
 cherrapunji  meg. india
+cherry  ne, usa.
+chester  pa, usa.
+chester sc  usa.
+chester tn  usa.
+chesterfield,  sc, usa.
 chettikkuppam  t.n. india
 chettikkurichy  t.n. india
 chettikulam  t.n. india
 chettipalayam  t.n. india
 chettiyappatti  t.n. india
+cheyenne  ks, usa.
 cheyur  t.n. india
+chhachrauli  har. india.
 chickahalli  t.n. india
+chickasaw  ia, usa.
+chickmagalur  kar. india.
 chidambaram  t.n. india
+chidley c  nfld, can.
+chik ballapur  kar. india.
+chikmagalur  kar. india.
+chiknayakanhalli  kar. india.
+chikodi  kar. india.
+chikodi road  kar. india.
+chiltern hills  u.k.
+chincholi  kar. india.
 chinna ganjam  a.p. india
 chinna salem  t.n. india
 chinnadharapuram  t.n. india
@@ -441,22 +822,32 @@ chinnamanur  t.n. india
 chinnaselam, villupuram dt.  t.n. india
 chinnavelampatti  t.n. india
 chinnur  a.p. india
+chintamani  kar. india.
 chinthalavadi  t.n.  india
 chinthamanipatti  t.n. india
+chippewa mi  usa.
+chippewa mn  usa.
+chippewa wi  usa.
 chipurupalle, v patnam  a.p. india
 chipurupalle, v patnam,  a.p. india
 chirala  a.p. india
 chirala, guntur  a.p. india
 chirayinkil  ker. india
 chiruvalur  t.n. india
+chisago  mn, usa.
 chithode  t.n. india
 chithoor, salem dt.  t.n. india
 chithrakkottai  t.n. india
 chithumalli  t.n. india
 chithur, madurai dt.  t.n. india
+chitradurga  kar. india.
+chittenden  vt, usa.
 chittoor  a.p. india
 chittur  ker. india
 chityal  a.p. india
+choctaw al  usa.
+choctaw ms  usa.
+choctaw ok  usa.
 chodavaram  a.p. india
 chokkampatti  t.n. india
 chokkampatti, madurai dt.  t.n. india
@@ -466,43 +857,215 @@ cholapuram  t.n. india
 cholapuram, tutikorin dt.  t.n. india
 cholavandan  t.n. india
 cholavaram  t.n. india
+christian,  mo, usa.
 chulung pass  j&k. india
+churchill  man, can.
+churchill,  nv, usa.
 chushal  j&k. india
+ciales  pr, usa.
+cimarron  ok, usa.
+citrus  fl, usa.
+clackamas  or, usa.
+clallam  wa, usa.
+clare  mi, usa.
+clark ar  usa.
+clark id  usa.
+clark il  usa.
+clark in  usa.
+clark ks,  usa.
+clark ky  usa.
+clark mo  usa.
+clark nv  usa.
+clark oh  usa.
+clark sd  usa.
+clark wi  usa.
+clarke al  usa.
+clarke ga  usa.
+clarke ia  usa.
+clarke ms  usa.
+clarke va  usa.
+clatsop  or, usa.
+clay al  usa.
+clay ar  usa.
+clay fl  usa.
+clay ga  usa.
+clay ia  usa.
+clay il  usa.
+clay in  usa.
+clay ks  usa.
+clay mo  usa.
+clay ms  usa.
+clay nc  usa.
+clay ne  usa.
+clay tn  usa.
+clay tx  usa.
+clay wv  usa.
+clearwater,  id, usa.
+cleveland  nc  usa.
+cleveland ar  usa.
+cleveland ok  usa.
+clifton forge  va, usa.
+clinch   ga, usa.
+clinton ia  usa.
+clinton il  usa.
+clinton in  usa.
+clinton ky  usa.
+clinton mi  usa.
+clinton mo  usa.
+clinton ny  usa.
+clinton oh  usa.
+clinton pa  usa.
+clipperton i  fran.
+coahoma  ms, usa.
+coal   ok, usa.
+coamo  pr, usa.
+coast mts  b.c. can.
+cobb  ga, usa.
 cochin  ker. india
+cochise   az, usa.
+coconino  az, usa.
+coffee al  usa.
+coffee ga  usa.
 coimbatore  t.n. india
 coleroon  t.n. india
+colfax  nm, usa.
+coll i  u.k.
+collier  fl, usa.
+collin  tx, usa.
+cologne  ger.
+colonsay i  u.k.
+columbia  ny, usa.
+columbia ar  usa.
+columbia fl  usa.
+columbia ga  usa.
+columbia or  usa.
+columbia pa  usa.
+columbia wa  usa.
+columbia wi  usa.
+columbus,  goe.
+comal  tx, usa.
+comanche ok  usa.
+comanche tx  usa.
+comerio  pr, usa.
 comorin cape  t.n. india
+conecuh  al, usa.
+conway  ar, usa.
 cooch bihar  w.b. india
+cook ga  usa.
+cook il  usa.
+cook mn  usa.
+cooke tx  usa.
+coondapoor  kar. india.
 coonoor  t.n. india
+coos nh  usa.
+coos or  usa.
 coramandel  t.n. india
 coringa  a.p. india
+corson  sd, usa.
+cotton  ok, usa.
 covelong beach  t.n. india
+cowlitz  wa, usa.
+craig ok  usa.
+craig va  usa.
+crawford ar  usa.
+crawford ga  usa.
+crawford ia  usa.
+crawford il  usa.
+crawford in  usa.
+crawford ks  usa.
+crawford mi  usa.
+crawford oh  usa.
+crawford pa  usa.
+crawford wi  usa.
+crenshaw  al, usa.
+crittenden  ar, usa.
+crittenden,  ky, usa.
+crockett  tn, usa.
+crockett,  tx, usa.
+crook  or, usa.
+cross  ar, usa.
 cuddalore  t.n. india
 cuddapah  a.p. india
+cullman  al, usa.
+cumberland ky  usa.
+cumberland me  usa.
+cumberland nc  usa.
+cumberland nj  usa.
+cumberland pa  usa.
+cumberland tn  usa.
+cumberland va  usa.
 cumbum  a.p. india
+cuming  ne, usa.
+curster co   usa.
+custer mt  usa.
+custer sd  usa.
+custer,  ok, usa.
+cuyahoga  oh, usa.
 dachepalle  a.p. india
+dadari  har. india.
+dadra  d&n.
+dale  al, usa.
 dalikottanoor  t.n. india
+dallas  ia, usa.
+dallas al  usa.
+dallas ar  usa.
+dallas mo  usa.
+dallas tx  usa.
+dalwad  kar. india.
+dandeli  kar. india.
 darmaraopet  a.p. india
 daroi  j&k. india
 darsi  a.p. india
+dartmoor  u.k.
 dasampatti  t.n. india
 dasanaickenpatti, erode dt.  t.n. india
 daspar mount  j&k. india
+dauphin  pa, usa.
+davangere  kar. india.
+dawson  ne, usa.
+dawson ga  usa.
+dawson tx,   usa.
+dawson y.t  can.
+day  sd, usa.
+de kalb  il, usa.
+decatur in  usa.
+decatur tn  usa.
+dee  u.k.
+deer lodge  mt, usa.
+defiance  oh, usa.
 degana  raj. india
 deglia  raj. india
 deivacheyalpuram  t.n. india
+delaware ia  usa.
+delaware in  usa.
+delaware ny  usa.
+delaware oh  usa.
+delaware ok  usa.
+delaware pa  usa.
+delft i  s.l.
 delhi, india
+delta  co, usa.
 delwa  raj. india
 delwara  raj. india
 denishpettai  t.n. india
+dent  mo, usa.
+denver  co, usa.
+deodrug  kar. india.
 deogarh  ori. india
 deoli,  ori. india
 dera  h.p. india
+dera babananak  pun. india.
+derby  u.k.
+derwent  u.k.
+deschutes  or, usa.
+desha  ar, usa.
 devadanappatti  t.n. india
+devadurga  kar. india.
 devakottai  t.n. india
 devala  t.n. india
 devalpalli  a.p. india
 devampadi  t.n. india
+devanhalli  kar. india.
 devannakavundanoor  t.n. india
 devarayapuram  t.n. india
 devarkonda  a.p. india
@@ -510,6 +1073,7 @@ devarkulam  t.n. india
 devikapuram  t.n. india
 devipattanam  t.n. india
 dewaram  t.n. india
+dewey,  sd, uda.
 dhadhagapatti  t.n. india
 dhadikkallu  t.n. india
 dhadikkombu  t.n. india
@@ -522,6 +1086,7 @@ dhandikkudi  t.n. india
 dhanushkodi  t.n. india
 dharakota  ori. india
 dharamapuri  t.n. india
+dharamkot  pun. india.
 dharapuram, erode dt.  t.n. india
 dharmapuram, kanyakumari dt.  t.n. india
 dharmapuri  t.n. india
@@ -530,35 +1095,86 @@ dharmjaygarh  m.p. india
 dharmsala  ori. india
 dharnaoda  m.p. india
 dharur  a.p. india
+dharwar  kar. india.
 dhavamangalam  t.n. india
 dhindugul  t.n. india
 dhinnappatti  t.n. india
 dhone  a.p. india
 dhottampatti  t.n. india
 dhulian  w.b. india
+dhuri  pun. india.
+dickey  nd, usa.
 digha  w.b. india
 dikchu  sik. india
 dindigul  t.n. india
 dindivanam  t.n. india
+dinwiddie  va, usa.
 divi port  a.p. india
+dod ballapur  kar. india.
 dodabetta mt  t.n. india
+dodge  ne, usa.
+dodge ga  usa.
+dodge wi  usa.
+don  u.k.
+dona ana  nm, usa.
+dondra head  s.l.
 dongkyala  sik. india
+door  wi, usa.
+dorchester  md, usa.
 dornakal  a.p. india
+dougherty  ga, usa.
+douglas co  usa.
+douglas ga  usa.
+douglas ks  usa.
+douglas mn  usa.
+douglas ne  usa.
+douglas nv  usa.
+douglas or  usa.
+douglas sd  usa.
+douglas wa  usa.
+douglas wi  usa.
+dover  u.k.
 dowlishwaram  a.p. india
+dubai  uae.
+dublin  ire.
+dubois  in, usa.
+duchesne  ut, usa.
+dudley  u.k.
 dudwa  u.p. india
+dukes  ma, usa.
 dummagudem  a.p. india
+dundee  u.k.
 dundwarganj  u.p. india
+dunn  nd, usa.
+dunn,  wi, usa.
 dupadu  a.p. india
 duraha  m.p. india
 duraisamipuram  t.n. india
+durban   s.a.
 durg  m.p. india
+dusseldorf  ger.
+dutchess  ny, usa.
 dwarkaganj  u.p. india
+dyer  tn, usa.
+eagle  co, usa.
 earal  t.n. india
+east baton rouge  la, usa.
+east kilbride  u.k.
+east london  s.a.
+eastbourne  u.k.
+eastmain que  can.
+eau claire  wi, usa.
 edamalai  t.n. india
 edapadi  t.n. india
 edapparai  t.n. india
 edavanna  ker. india
+eden  u.k.
+edinburgh  u.k.
+edwards  tx, usa.
+edwards il  usa.
+edwards ks,  usa.
 eiampillai  t.n. india
+eigg i  u.k.
 ekambanallur  t.n. india
 ekkakudi  t.n. india
 elachipalayam  t.n. india
@@ -570,14 +1186,26 @@ elathangudi  t.n. india
 elathur  t.n. india
 elathur, trichy dt.  t.n. india
 elavur  t.n. india
+elbert  ga, usa.
+elbert,  co, usa.
+elephant pass  s.l.
+elk  ks, usa.
+elk,  pa, usa.
+elkhart  in, usa.
+elko  nv, usa.
 ellappatti  t.n. india
 ellapuram  t.n. india
+ellesmere is  nwt, can.
 elluru  a.p. india
 elumalai  t.n. india
 elumathur  t.n. india
 elurpatti  t.n. india
 emaneswaram  t.n. india
+emery  ut, usa.
+emmet,  mi, usa.
 emmiganuru  a.p. india
+emporia  va, usa.
+england  u.k.
 ennamangalam  t.n. india
 ennar  t.n. india
 ennoor  t.n. india
@@ -585,53 +1213,183 @@ enusonai  t.n. india
 erakkudi  t.n. india
 eraneel  t.n. india
 erasakkanaickenur  t.n. india
+erath  tx, usa.
+erie ny  usa.
+erie oh  usa.
+erie pa  usa.
 ernakulam  ker. india
 erode  t.n. india
 erumalvetti  t.n. india
 erumappatti  t.n. india
 eruvadi  t.n. india
+esmeralda  nv, usa.
+essen  ger.
+essex  ny, usa.
+essex  va  usa.
+essex ma  usa.
+essex nj  usa.
+essex vt  usa.
 ethappur  t.n. india
 ettaiyapuram  t.n. india
 ettimadai  t.n. india
 ettukkudi  t.n. india
 ettumanur  ker. india
+eureka  nv, usa.
+evangeline  la, usa.
+evans  ga, usa.
+exe   u.k.
+faaf  mald.
+fairbanks north star  ak, usa
+fairfax   va, usa.
+fairfax,  va, usa.
+fairfield ca   usa.
+fairfield ct  usa.
+fairfield oh  usa.
+fairfield sc  usa.
+falkland is  u.k.
+falls church  va, usa.
 false pt  ori. india
 farah,  u.p. india
 fatehpur,  u.p. india
+faulk  sd, usa.
+faulkner  ar, usa.
+fauquier  va, usa.
+fayette al  usa.
+fayette ga  usa.
+fayette ia  usa.
+fayette il  usa.
+fayette in  usa.
+fayette oh  usa.
+fayette pa  usa.
+fayette tn  usa.
+fayette wv  usa.
+fazilka  pun. india.
 fedusar  raj. india
 ferokh  ker. india
+firozpur jhirka  har. india.
+flannan is  u.k.
+floyd ga  usa.
+floyd ia  usa.
+floyd in  usa.
+floyd tx  usa.
+floyd va  usa.
+ford  ks, usa.
+forest  wi, usa.
+forest,  pa, usa.
 fort st david  t.n. india
 fort st george  t.n. india
+forth  u.k.
+foshan chin  23
+foul point  s.l.
+frankfurt  ger.
+franklin al  usa.
+franklin ar  usa.
+franklin fl  usa.
+franklin ga  usa.
+franklin ia  usa.
+franklin id  usa.
+franklin il  usa.
+franklin in  usa.
+franklin ks  usa.
+franklin ky  usa.
+franklin la  usa.
+franklin ma  usa.
+franklin me  usa.
+franklin mo  usa.
+franklin ms  usa.
+franklin nc  usa.
+franklin ne  usa.
+franklin ny  usa.
+franklin pa  usa.
+franklin tn  usa.
+franklin tx  usa.
+franklin va  usa.
+franklin vt  usa.
+franklin wa  usa.
+fraser  b.c. can.
+frederick,   va, usa.
+fredericksburg  va, usa.
+freeborn  mn, usa.
+fremont co   usa.
+fremont ia  usa.
+fremont wy  usa.
+fresno  ca, usa.
+ft. good hope  nwt., can.
+ft. simpson  nwt., can.
+fuji  jap. india.
+fulton  il, usa.
+fulton ar  usa.
+fulton in  usa.
+fulton ky  usa.
+fulton ny  usa.
+fulton oh  usa.
+fulton pa  usa.
+gadag  kar. india.
 gadwal  a.p. india
 gadwin austin  j&k. india
 gagangir  j&k. india
 gajapathinagaram  a.p. india
 gakuch  j&k. india
+galax  va, usa.
+galle   s.l.
 galleri  ori. india
+galveston  tx, usa.
 gamna hanu  j&k. india
+gan   mald.
 gandarbal  j&k. india
 gangaijalghati  w.b. india
 gangaikondan  t.n. india
 gangaikondapuram  t.n. india
 gangavalli  t.n. india
+gangawati  kar. india.
 gangtok  sik. india
 ganguvarpatti  t.n. india
 ganjam  ori. india
 gantapara  ori. india
+garfield co  usa.
+garfield mt  usa.
+garfield ut  usa.
+garfield wa  usa.
 garha  m.p. india
+garhdiwala  pun. india.
 garh-phuljhan  m.p. india
+garland  ar, usa.
 garohills  meg. india
+garvin   ok, usa.
+gauribidanur  kar. india.
+geary  ks, usa.
+geauga  oh, usa.
+gem  id, usa.
+gentry  mo, usa.
+georgetown,  sc, usa.
+gersoppa  kar. india.
+gersoppa falls  kar. india.
 ghiror  u.p. india
 ghorawal  u.p. india
+gibson in  usa.
+giddalur  a.p.india
+gila   az, usa.
+gilliam  or, usa.
+gilmer  wv, usa.
+gilpin  co, usa.
 gingee  t.n. india
 givindanagaram  t.n. india
+glades  fl, usa.
+glasgow  u.k.
+gloucester   u.k.
+gloucester nj  usa.
+gloucester va  usa.
+glynn  ga, usa.
+godavari cape  a.p.india
 gokak  kar. india
 gokaran  kar. india
 gola bazar  u.p. india
 golden beach  t.n. india
 golden rock  t.n. india
+golden valley  nd, usa.
 golkonda  a.p. india
 gomangalam  t.n. india
+good hope  s.a.
 gooty  a.p. india
 gopichettipalayam  t.n. india
 gopiganj  u.p. india
@@ -639,16 +1397,68 @@ gopinaickenpatti  t.n. india
 goplasamudram  t.n. india
 gorakhpur  u.p. india
 gormi  m.p. india
+goshen  wy, usa.
 gosiaganj, faizabad  u.p. india
 gosiaganj, lucknow  u.p. india
+gove  ks, usa.
 govindamangalam  t.n. india
 govindapadi  t.n. india
+grady,  ok, usa.
+grafton  nh, usa.
+graham az  usa.
+graham ks  usa.
+grand   co, usa.
+grand isle  vt, usa.
+granite  mt, usa.
+grant ar  usa.
+grant in  usa.
+grant ky  usa.
+grant la  usa.
+grant mn  usa.
+grant ne  usa.
+grant nm  usa.
+grant ok  usa.
+grant or  usa.
+grant sd  usa.
+grant wa  usa.
+grant wi  usa.
+grays harbor  wa, usa.
+grayson  va, usa.
+greeley,  ne, usa.
+green lake  wi, usa.
+greenbrier  wv, usa.
+greene al  usa.
+greene ar  usa.
+greene ga  usa.
+greene ia  usa.
+greene il  usa.
+greene in  usa.
+greene mo  usa.
+greene ms  usa.
+greene nc  usa.
+greene ny  usa.
+greene oh  usa.
+greene pa  usa.
+greene tn  usa.
+greene va  usa.
+greenock  u.k.
+greenup  ky, usa.
+greenville  sc, usa.
+greenville,  va, usa.
+greenwich  u.k.
+grimes  tx, usa.
+grundy  ia, usa.
+guadalupe  nm, usa.
 gubbi  kar. india
 gudalur  t.n. india
 gudalur madura  t.n. india
 gudalur nilgiris  t.n. india
+gudivada  a.p.india
 gudiyatham  t.n. india
 gudiyattam  t.n. india
+gudur kurnood  a.p.india
+gudur nellore  a.p.india
+gueret  fran.
 gugi  kar. india
 gula  har. india
 gulbarga  kar. india
@@ -656,57 +1466,182 @@ gumudipoondi  t.n. india
 gunaselam  t.n. india
 gunderi  kar. india
 gundlupet  kar. india
+guntakal  a.p.india
+guntur  a.p.india
 gurdaspur  pun. india
 gurmatkal  kar. india
 gurramkonda  a.p. india
 guruchadi  t.n. india
+guruzala  a.p.india
+guthrie  ia, usa.
 hadgalli  kar. india
+haines  ak, usa.
+hale,  tx, usa.
+halifax nc  usa.
+halifax va  usa.
 haliyal  kar. india
+hamburg  ger.
+hamilton fl  usa.
+hamilton ia  usa.
+hamilton il  usa.
+hamilton in  usa.
+hamilton ks  usa.
+hamilton ny  usa.
+hamilton ont  can.
+hamilton tn  usa.
+hamilton tx  usa.
+hamlin  sd, usa.
+hampden  ma,  usa.
 hampi  kar. india
+hampshire  ma, usa.
+hampshire,  wv, usa.
+hampton  va, usa.
+hanamkonda  a.p.india
+hancock ga  usa.
+hancock ia  usa.
+hancock in  usa.
+hancock me  usa.
+hancock oh  usa.
+hancock wv  usa.
 handapa  ori. india
 hangal  kar. india
+hanover  ger.
+hanover,  va, usa.
+hanson  sd,usa.
 haora  w.b. india
 haora,  w.b. india
 happy velley  meg. india
+hardin  ia, usa.
+hardin il  usa.
+hardin ky  usa.
+hardin oh  usa.
+hardin tn  usa.
+hardin tx  usa.
 hardwar  u.p. india
+hardy  wv, usa.
 harihar  kar. india
 hariharpur  kar. india
 harike barrage  pun. india
 harikrishnavarichatram  t.n. india
 haripad  ker. india
+harmon  ok, usa.
 harnahalli  kar. india
+harney  or, usa.
 haroor  t.n. india
+harpanahalli  kar. india.
+harper  ks, usa.
+harrison in  usa.
+harrison mo  usa.
+harrison oh  usa.
+harrison tx  usa.
+harrison wv  usa.
+harrisonburg  va, usa.
+harrow  u.k.
+hart ga  usa.
+hart ky  usa.
+hartford  ct, usa.
+hartlepool  u.k.
 harur  t.n. india
+hasanparti  a.p.india
 hasanpur  u.p. india
 hasanur  t.n. india
+haskell  tx, usa.
+haskell .,  ok,usa.
 hasnabad  w.b. india
 hassan  kar. india
 haveri  kar. india
+hawaii  hi, usa.
+hay river  nwt, can.
+hayes  ne, usa.
+hays  tx, usa.
+heard  ga, usa.
 heggadadevan kote  kar. india
+hemphill  tx, usa.
+henderson  tx, usa.
+henderson il  usa.
+henderson ky  usa.
+henderson nc  usa.
+henderson tn  usa.
+hendricks  in, usa.
+henrico  va, usa.
+henry al  usa.
+henry ky  usa.
+henry mo  usa.
+henry oh  usa.
+henry tn  usa.
+henry va  usa.
+henry,  in, usa.
+hernando  fl, usa.
+hettinger  nd, usa.
+hickman,  tn, usa.
+hickory  mo, usa.
+highland  oh, usa.
+hilingdon  u.k.
+hillsborough,  nh, usa.
+hillsdale  mi, usa.
+hindupur  a.p.india
 hirekerur  kar. india
 hiriyur  kar. india
+hiroshima  jap. india.
+hocking  oh, usa.
+hockley  tx, usa.
 hokanakkal  t.n. india
+hokkaido  jap. india.
 holalkere  kar. india
 hole narsipur  kar. india
 holiyar  kar. india
+holmes,  oh, usa.
+holt  ne, usa.
+holt,  mo, usa.
 homnabad  kar. india
 honavar  kar. india
 honawalli  kar. india
+hong kong  h & k.
 honnali  kar. india
+honolulu  hi, usa.
 honwad  kar. india
+hood river  or, usa.
 hooghly  w.b. india
+hopedale  nfld, can.
+hopewell  va, usa.
+horry  sc, usa.
 hosanagara  kar. india
 hosdurga  kar. india
 hoskote  kar. india
 hospet  kar. india
 hosur  t.n. india
 hosur  t.n. india
+hot spring  ar, usa.
+houston  mn, usa.
+houston ga  usa.
+houston tn,   usa.
+houston tx  usa.
+howard ar  usa.
+howard ia  usa.
+howard in  usa.
+howard md  usa.
+howard mo  usa.
+howard ne  usa.
 howrah  w.b. india
+hubbard  mn, usa.
 hubli  kar. india
+hudson  nj, usa.
+huerfano  co, usa.
+humboldt ia  usa.
+humboldt nv  usa.
+humphreys  ms, usa.
 hungund  kar. india
 hunsur  kar. india
+huntington,  in, usa.
+hutchinson  tx, usa.
+huzurabad  a.p.india
+huzurnagar  a.p.india
+hyderabad  pak.
+hyderabad,  a.p.india
+iberville  la, usa.
 ichampadi  t.n. india
 ichapur  u.p. india
+idaho  id, usa.
 idaiyankottai  t.n. india
 idakki  ker. india
 idakkode  t.n. india
@@ -724,28 +1659,69 @@ ilavengai  t.n. india
 ilayanar vellore  t.n. india
 ilayangudi  t.n. india
 iluppur  t.n. india
+imperial  ca, usa.
 inchampakkam  t.n. india
 indi  kar. india
 india center  india
+indiana  pa, usa.
 indoor  t.n. india
+indurti  a.p.india
 ingur  t.n. india
 inungur  t.n. india
+iosco  mi, usa.
+iowa  ia, usa.
 iraiyur  t.n. india
+iredell  nc, usa.
 irinjalakkuda  ker. india
+iron mi  usa.
+iron ut  usa.
+iron wi  usa.
+iroquois  il, usa.
 irugur  t.n. india
 irumparai  t.n. india
 irundhai  t.n. india
 irungalur  t.n. india
 iruppuli  t.n. india
 iruvappuram  t.n. india
+irwin  ga, usa.
+isabela  pr, usa.
+isabella  mi, usa.
 isanattham  t.n. india
 isauli  u.p. india
+islamabad  pak.
 islamnagar  u.p. india
+island  wa, usa.
+islay i  u.k.
+isle of man  u.k.
+isle of wight  va, usa.
 italar  t.n. india
 itiathok  u.p. india
 ittamoli  t.n. india
 itwa  u.p. india
+jackson al  usa.
+jackson ar  usa.
+jackson co  usa.
+jackson fl  usa.
+jackson ga  usa.
+jackson ia  usa.
+jackson in  usa.
+jackson ky  usa.
+jackson la  usa.
+jackson mi  usa.
+jackson mn  usa.
+jackson mo  usa.
+jackson ms  usa.
+jackson nc  usa.
+jackson oh  usa.
+jackson or  usa.
+jackson tn  usa.
+jackson tx  usa.
+jackson wi  usa.
+jackson wv  usa.
 jadayampalayam  t.n. india
+jadcherla  a.p.india
+jaddangi  a.p.india
+jaffna  s.l.
 jagadevippalayam  t.n. india
 jagadhri  har. india
 jagalur  kar. india
@@ -754,7 +1730,9 @@ jagat  u.p. india
 jagatpur  u.p. india
 jagaveerapandiyapuram  t.n. india
 jagdishpur  u.p. india
+jaggayyapeta,  a.p.india
 jagnair,  u.p. india
+jagtial,  a.p.india
 jahanabad, bareilly  u.p. india
 jahanabad, kanpur  u.p. india
 jahangirabad  u.p. india
@@ -782,24 +1760,62 @@ jallippatti  t.n. india
 jalsur  kar. india
 jambakunthi  t.n. india
 jambukulam  t.n. india
+jamekunti  a.p.india
+james city  va, usa.
 jamkhandi  kar. india
+jammalamadugu  a.p.india
 jamshedpur  bih. india
 jamtali  u.p. india
 jamtara  bih. india
 jamui  bih. india
 jangalpatti  t.n. india
+jangaon  a.p.india
 janghai  u.p. india
 jansath  u.p. india
 janwada  kar. india
 japla  bih. india
 jarwa  u.p. india
+jasper  ga.  usa.
+jasper  il  usa.
+jasper  mo  usa.
+jasper  tx  usa.
+jasper in  usa.
+jasper sc  usa.
 jaunpur  u.p. india
 javalagiri  t.n. india
 jawalapur  u.p. india
+jay  in, usa.
 jayamangalam  t.n. india
 jayamkondam  t.n. india
 jayantipur  meg. india
+jayuya  pr, usa.
 jedarpalayam  t.n. india
+jeff davis  ga, usa.
+jefferson al  usa.
+jefferson ar  usa.
+jefferson co  usa.
+jefferson davis  ms, usa.
+jefferson ga  usa.
+jefferson ia  usa.
+jefferson il  usa.
+jefferson in  usa.
+jefferson ks  usa.
+jefferson ky  usa.
+jefferson la  usa.
+jefferson mo  usa.
+jefferson ms  usa.
+jefferson mt  usa.
+jefferson ne  usa.
+jefferson ny  usa.
+jefferson oh  usa.
+jefferson or  usa.
+jefferson pa  usa.
+jefferson tn  usa.
+jefferson tx  usa.
+jefferson wi  usa.
+jefferson wv  usa.
+jerome  id, usa.
+jessamine  ky, usa.
 jewar  u.p. india
 jeypore,  ori. india
 jhajhar  u.p. india
@@ -810,9 +1826,30 @@ jhusi  u.p. india
 jigni  u.p. india
 jiyanpur  u.p. india
 jogalur  kar. india
+johannesburg  s.a.
+johnson  wy, usa.
+johnson ar  usa.
+johnson ga  usa.
+johnson il  usa.
+johnson in  usa.
+johnson ks  usa.
+johnson ky  usa.
+johnson mo  usa.
+johnson ne  usa.
+johnson tn  usa.
+johnson tx  usa.
 jolarpettai  t.n. india
+jones ga  usa.
+jones ms  usa.
+jones nc  usa.
+jones sd  usa.
+jones tx  usa.
 joshimath  u.p. india
+juab  ut, usa.
+juana dias  pr, usa.
 jullundur  pun. india
+juneau,  wi, usa.
+juniata  pa, usa.
 kabilarmalai  t.n. india
 kabrai  u.p. india
 kachchola  raj. india
@@ -831,8 +1868,10 @@ kadampuliyur  t.n.  india
 kadathur  t.n. india
 kadavoor  t.n. india
 kadayanallur  t.n. india
+kaddam  a.p.india
 kadiapattam  t.n. india
 kadipur  u.p. india
+kadiri  a.p.india
 kadiyur  t.n. india
 kadpadi  t.n. india
 kadumalur  t.n. india
@@ -846,10 +1885,13 @@ kailasagiri  t.n. india
 kailashahar  tri. india
 kailtiya  u.p. india
 kakaveri  t.n. india
+kakinada  a.p.india
 kakkachi  t.n. india
 kakrala  u.p. india
 kakwan  u.p. india
+kalabgur  a.p.india
 kaladgi  kar. india
+kalahasti  a.p.india
 kalaiyarkovil  t.n. india
 kalakkadu  t.n. india
 kalankani  t.n. india
@@ -860,12 +1902,15 @@ kalathur  t.n. india
 kalavai  t.n. india
 kalghatgi  kar. india
 kalidaikurichchi  t.n. india
+kaligiri  a.p.india
 kalimandhayam  t.n. india
+kalingapatnam  a.p.india
 kalingavaram  t.n. india
 kaliof  ker. india
 kalippatti road  t.n. india
 kaliyapuram  t.n. india
 kalkadambur  t.n. india
+kalkaska  mi, usa.
 kalkudi  t.n. india
 kalkuruchi  t.n. india
 kalladai  t.n. india
@@ -891,13 +1936,18 @@ kalpakalur  t.n. india
 kalpakkam, kanchipuram dt.  t.n. india
 kalpattichathiram  t.n. india
 kalrayanmalai  t.n. india
+kalutara  s.l.
 kaluvankulam  t.n. india
 kalvadangam  t.n. india
+kalwakurthi  a.p.india
 kalwarpatti  t.n. india
+kalyan durg  a.p.india
 kalyanapandal  t.n. india
 kalyani  kar. india
+kamalapuram  a.p.india
 kamanaickavandanpatti  t.n. india
 kamanaickenpalayam  t.n. india
+kamareddi  a.p.india
 kamaresavalli  t.n. india
 kambai  t.n. india
 kambainallur  t.n. india
@@ -906,6 +1956,7 @@ kambukkudi  t.n. india
 kambur  t.n. india
 kamet  u.p. india
 kamlanagar  kar. india
+kamloops  b.c., can.
 kammalappatti  t.n. india
 kammapuram  t.n. india
 kampli  kar. india
@@ -914,6 +1965,7 @@ kanakapura  kar. india
 kanallappatti  t.n. india
 kanampatti  t.n. india
 kanathukattan  t.n. india
+kanawha  wv, usa.
 kanchappali  t.n. india
 kanchipuram  t.n. india
 kandamanaickenur  t.n. india
@@ -921,11 +1973,17 @@ kandangipatti  t.n. india
 kandarvakottai  t.n. india
 kandavaratti  t.n. india
 kandhla  u.p. india
+kandi  a.p.india
 kandiyan kovil  t.n. india
 kandiyanmadai  t.n. india
+kandiyohi  mn, usa.
+kandukur  a.p.india
 kandur  t.n. india
+kandy  s.l.
+kane,  ut, usa.
 kangayam  t.n. india
 kangpokpi  man. india
+kanigiri  a.p.india
 kaniyampadi  t.n. india
 kaniyur  t.n. india
 kanjanaickenpatti  t.n. india
@@ -948,17 +2006,22 @@ kanniyakumari  t.n. india
 kannudaiyampatti  t.n. india
 kanpur,  u.p. india
 kanso  u.p. india
+kantaphor  m.p.india
 kanthagai  t.n. india
 kanthi  w.b. india
 kanthiramanickam  t.n. india
+kanuparthi  a.p.india
+kanur  a.p.india
 kanyakumari  t.n. india
 kappalur, madurai dt.  t.n. india
+karachi  pak.
 karadikkal  t.n. india
 karadivavi  t.n. india
 karagoor  t.n. india
 karaikal  t.n. india
 karaikkudi  t.n. india
 karaikudi  t.n. india
+karaitivu i  s.l.
 karaiyankuduiruppu  t.n. india
 karaiyur  t.n. india
 karajgi  kar. india
@@ -967,6 +2030,7 @@ karambakudi  t.n. india
 karangadu  t.n. india
 kardikal  t.n. india
 karimangalam  t.n. india
+karimnagar  a.p.india
 karingal  t.n. india
 karippatti  t.n. india
 karisalkulam  t.n. india
@@ -978,6 +2042,7 @@ kariyamanickam  t.n. india
 kariyappatti  t.n. india
 karkal  kar. india
 karkuddaipatti  t.n. india
+karlidi  m.p.india
 karnadiyakar  t.n. india
 karnaprayag  u.p. india
 karsog  h.p. india
@@ -999,6 +2064,7 @@ karuppur, trichi dt.  t.n. india
 karur  t.n. india
 karuvalli  t.n. india
 karuvappulam  t.n. india
+karvetnagar  a.p.india
 karwar  kar. india
 karwi  u.p. india
 kasanur  t.n. india
@@ -1010,7 +2076,9 @@ kasia  u.p. india
 kasthampatti  t.n. india
 kasthurippattu  t.n. india
 kasthurirangapuram  t.n. india
+katangi  m.p.india
 katarnian ghat  u.p. india
+katmandu  nep.
 katol  h.p. india
 kattampuli  t.n. india
 kattankulathur  t.n. india
@@ -1024,7 +2092,10 @@ kattunaickenpatti  t.n. india
 kattuppakkam  t.n. india
 kattuputhur  t.n. india
 kattur, kaniyakumari dt.  t.n. india
+kauai  hi, usa.
 kaudahalli  kar. india
+kaulas  a.p.india
+kavali  a.p.india
 kavaloor  t.n. india
 kavanoor  t.n. india
 kavanur  t.n. india
@@ -1038,6 +2109,7 @@ kayalpattinam  t.n. india
 kayampattu  t.n. india
 kayankulam  ker. india
 kayathar  t.n. india
+kazipet  a.p.india
 keelakkarai  t.n. india
 keelanilakkottai  t.n. india
 keelcheri  t.n. india
@@ -1060,20 +2132,37 @@ keeranur, karur dt.  t.n. india
 keeranur, pudukkottai dt.  t.n. india
 keerapalayam  t.n. india
 keerippatti  t.n. india
+kegalla  s.l.
 kelamangalam  t.n. india
+kenai peninsula  ak, usa.
+kennebec  me, usa.
+kenosha  wi, usa.
+kent  ri, usa.
+kent de  usa.
+kent md   usa.
+kent mi   usa.
+kent tx  usa.
+keokuk  ia, usa.
+kern  ca, usa.
 kerur  kar. india
+keshahipet  a.p.india
+ketchikan gateway  ak, usa.
 kethanoor  t.n. india
 kethwara  del. india
 kettavadi  t.n. india
 ketti  t.n. india
+keweenaw  mi, usa.
+khachrod  m.p.india
 khaga  u.p. india
 khajuri  bih. india
+khammam  a.p.india
 khanapur  kar. india
 kharag  h.p. india
 kharagpur  bih. india
 kharak wasla  mah. india
 kharik  bih. india
 khermalam  t.n. india
+khirkiya  m.p.india
 khoksar  pun. india
 khowai  tri. india
 khurda  ori. india
@@ -1088,13 +2177,39 @@ killai  t.n. india
 killakarai  t.n. india
 killar  h.p. india
 killukkottai  t.n. india
+kimberley  s.a.
+kinabalu mt  mal.
 kinathukadavu  t.n. india
+king and queen  va, usa.
+king george  va, usa.
+king william  va, usa.
+king,  wa, usa.
+kingfisher  ok, usa.
+kingman  ks, usa.
+kings  ny, usa.
+kintyre  u.k.
+kiowa,  ok, usa.
+kitimat  b.c., can.
+kitsap  wa, usa.
+kittitas  wa, usa.
 kittur  kar. india
 kiul  bih. india
+klamath  or, usa.
+klickitat  wa, usa.
+knox in  usa.
+knox ky  usa.
+knox me  usa.
+knox mo  usa.
+knox ne  usa.
+knox oh  usa.
+knox tn  usa.
+knox tx   usa.
 koath  bih. india
+kobe  jap. india.
 koch  bih. india
 kochinda  ori. india
 kod   kar. india
+kodad  a.p.india
 kodai road  t.n. india
 kodaikanal  t.n. india
 kodaiyur  t.n. india
@@ -1111,8 +2226,13 @@ kodingium  t.n. india
 kodiyakharai  t.n. india
 kodumbalur  t.n. india
 kodumudi  t.n. india
+kodumuru  a.p.india
+koduru  a.p.india
 koduvai  t.n. india
 koduvilarpatti  t.n. india
+kohir  a.p.india
+koilkonda  a.p.india
+koilkuntla  a.p.india
 kokkadi  t.n. india
 kokkaniserri  ker. india
 kokkurani  t.n. india
@@ -1127,6 +2247,7 @@ kolarpatti  t.n. india
 kolathupalayam  t.n. india
 kolathur  t.n. india
 kolatupuzha  ker. india
+kolhapur  a.p.india
 kolinjuvadi  t.n. india
 kollakkottai  t.n. india
 kollangod  ker. india
@@ -1135,6 +2256,7 @@ kollankondan  t.n. india
 kollegal  ker. india
 kollimalai  t.n. india
 kollippatti  t.n. india
+kollur  a.p.india
 kolosib  miz. india
 komapuram  t.n. india
 komarachi  t.n. india
@@ -1147,6 +2269,7 @@ kombai, theni dt.  t.n. india
 kombedi  t.n. india
 kombu  t.n. india
 konad  ker. india
+konada  a.p.india
 konam  t.n. india
 konark  ori. india
 kondaiyampalayam  t.n. india
@@ -1154,6 +2277,8 @@ kondaiyampalli  t.n. india
 kondalam  t.n. india
 kondalampatti  t.n. india
 kondapalayam  t.n. india
+kondapalle  a.p.india
+kondavid  a.p.india
 konganapuram  t.n. india
 konguppatti  t.n. india
 konnur  t.n. india
@@ -1166,18 +2291,27 @@ koppampatti  t.n. india
 koppampatti, perambalur dt.  t.n. india
 kora,  bih. india
 koranampatti  t.n. india
+korangal  a.p.india
+koratla  a.p.india
 koratti  t.n. india
 koravankandi  t.n. india
 korkai  t.n. india
 korunkalur  t.n. india
 kosavappatti  t.n. india
+kosgi  a.p.india
+kosigi  a.p.india
+kossuth  ia, usa.
 kosure  t.n. india
 kot kapura  pun. india
+kota  a.p.india
+kota kinabalu  mal.
 kotagiri  t.n. india
 kothalam  t.n. india
 kothalampakkam  t.n. india
 kothamangalam  t.n. india
+kotipalle  a.p.india
 kottacheri  t.n. india
+kottagudem  a.p.india
 kottaikadu  t.n. india
 kottaikarunkulam  t.n. india
 kottaipattanam  t.n. india
@@ -1206,8 +2340,11 @@ koviloor  t.n. india
 koviloor, thiruvannamalai dt.  t.n. india
 kovilpalayam  t.n. india
 kovilpatti, theni dt.  t.n. india
+kovur  a.p.india
+kovvur  a.p.india
 koyilnattham  t.n. india
 kozhikonde  ker. india
+krishna  a.p.india
 krishnagiri  t.n. india
 krishnapuram  t.n. india
 krishnapuram, madurai dt.  t.n. india
@@ -1216,9 +2353,13 @@ krishnaraja dam  kar. india
 krishnarajpet  kar. india
 krishnarayapuram  t.n. india
 krudamangalam  t.n. india
+kuala lumpur  mal.
+kuala selangor  mal.
+kucing  mal.
 kudakkottai  t.n. india
 kudaloor, karu dt.  t.n. india
 kudalur  t.n. india
+kudat  mal.
 kudavasal  t.n. india
 kudavasal, thiruvarur dt.  t.n. india
 kudchi  kar. india
@@ -1228,6 +2369,7 @@ kudremukh mount  kar. india
 kujiliamparai  t.n. india
 kukkal  t.n. india
 kukkalur  t.n. india
+kukunuru  a.p.india
 kulakkudi  t.n. india
 kulasekaram  t.n. india
 kulasekarapatanam  t.n. india
@@ -1281,11 +2423,14 @@ kuntharappalli  t.n. india
 kupoor  t.n. india
 kuppachiparai  t.n. india
 kuppakudi  t.n. india
+kuppam  a.p.india
+kuppiti  a.p.india
 kurakkodu  t.n. india
 kuram  t.n. india
 kurayur  t.n. india
 kurinjipadi  t.n. india
 kurisilappattu  t.n. india
+kurnool  a.p.india
 kurtralam  t.n. india
 kuruchi, erode dt.  t.n. india
 kuruchi, salem dt.  t.n. india
@@ -1294,11 +2439,14 @@ kurumanthur  t.n. india
 kurumbalur  t.n. india
 kurumbur  t.n. india
 kurunchery  t.n. india
+kurunegala  s.l.
+kurupam  a.p.india
 kuruthangodu  t.n. india
 kuruvikulam  t.n. india
 kushtagi  kar. india
 kuthala  t.n. india
 kuthampoondi  t.n. india
+kuthara  m.p.india
 kuthuluppai  t.n. india
 kutralam  t.n. india
 kuttaiyur  t.n. india
@@ -1312,41 +2460,225 @@ kuttuppatti  t.n. india
 kuttyadi  ker. india
 kuvathur  t.n. india
 kuzhittura  t.n. india
+kyoto  jap. india.
+kyushu  jap. india.
+la crosse  wi, usa.
+la rochelle  fran.
+la salle  il, usa.
+la salle,  la, usa.
+labette  ks, usa.
+labrador  nfld, can.
 lachen  silk. india
 lachung  sik. india
+lackawanna  pa, usa.
+laclede  mo, usa.
 ladapuram  t.n. india
 ladwa  har. india
+lafayette  mo, usa.
+lafayette.,  fl, usa.
+lafourche  la, usa.
+lahore  pak.
 lakanappatti  t.n. india
+lake ca  usa.
+lake co  usa.
+lake fl  usa.
+lake in  usa.
+lake mi  usa.
+lake mn  usa.
+lake mt  usa.
+lake oh  usa.
+lake or  usa.
+lake sd  usa.
+lake tn  usa.
+lakhsetipet  a.p.india
 lakshmeshwar  kar. india
 lakshmikantapur  w.b. india
 lakshminaickenpalayam  t.n. india
+lakshmipura  a.p.india
 lalgudi  t.n. india
 laligam  t.n. india
+lamar al  usa.
+lamar ms  usa.
+lamar tx  usa.
+lamoille  vt, usa.
+lancaster  sc, usa.
+lancaster ne  usa.
+lancaster pa  usa.
+lancaster va  usa.
+lander  nv, usa.
+lane  ks, usa.
+langlade  wi, usa.
+lapeer  mi, usa.
+laramie  wy, usa.
+lares  pr, usa.
+las animas  co, usa.
+las marias  pr, usa.
+las piedras  pr, usa.
+lavaca  tx, usa.
+lawrence al  usa.
+lawrence ar  usa.
+lawrence il  usa.
+lawrence in  usa.
+lawrence ky  usa.
+lawrence mo  usa.
+lawrence ms  usa.
+lawrence oh  usa.
+lawrence pa  usa.
+lawrence tn  usa.
+lea  nm, usa.
+leavenworth  ks, usa.
+lebanon  pa, usa.
+lee  ky  usa.
+lee  sc  usa.
+lee il  usa.
+lee ms  usa.
+lee nc  usa.
+lee tx  usa.
+lee va  usa.
+leflore  ms, usa.
+leicester  u.k.
+leipzig  ger.
+lenawee  mi, usa.
+leon fl  usa.
+leon tx  usa.
+leslie  ky, usa.
+letcher  ky, usa.
+lewis id  usa.
+lewis ky  usa.
+lewis mo  usa.
+lewis ny  usa.
+lewis tn  usa.
+lewis wv  usa.
+liberty fl  usa.
+liberty ga  usa.
+liberty tx  usa.
+licking  oh, usa.
+limestone,  al, usa.
+lincoln ar  usa.
+lincoln co  usa.
+lincoln ga  usa.
+lincoln ks  usa.
+lincoln ky  usa.
+lincoln me  usa.
+lincoln mn  usa.
+lincoln mo  usa.
+lincoln mt  usa.
+lincoln nc  usa.
+lincoln ne  usa.
+lincoln nm  usa.
+lincoln nv  usa.
+lincoln ok  usa.
+lincoln or  usa.
+lincoln tn  usa.
+lincoln wa  usa.
+lincoln wi  usa.
+lincoln wv  usa.
+lingampeth  a.p.india
+lingaparthi  a.p.india
+lingapur  a.p.india
+linn ia  usa.
+linn ks  usa.
 linsugur  kar. india
+lipscomb  tx, usa.
+litchfield  ct, usa.
+little minch  u.k.
+little river  ar, usa.
+liverpool  u.k.
+livingston  il, usa.
+livingston ky  usa.
+livingston la  usa.
+livingston mi  usa.
+livingston mo  usa.
+livingston ny  usa.
+lizard point  u.k.
+llano  tx, usa.
+logan ar  usa.
+logan co  usa.
+logan ks  usa.
+logan ky  usa.
+logan mt  y.t.can.
+logan nd  usa.
+logan ne  usa.
+logan oh  usa.
+logan ok  usa.
+logan wv  usa.
 loharu  har. india
 lokapur  kar. india
 lokkur  t.n. india
 londa  kar. india
+london  ont, can.
+london,  u.k.
+lonoke  ar, usa.
+lorn  u.k.
+los alamos  nm, usa.
+loup  ne, usa.
+loving  tx, usa.
+lubbock  tx, usa.
+lucknow
 lungleh  miz. india
+luzerne  pa, usa.
+lycoming  pa, usa.
+lyman  sd, usa.
+lynchburg  va, usa.
+lynn  tx, usa.
+lyon ia  usa.
+lyon ks  usa.
+lyon ky  usa.
 maalvadi  t.n. india
 maanuppatti  t.n. india
+machilipatnam  a.p.india
 machiwara  pun. india
+machkund dam  a.p.india
+mackenzie mts  y.t., can.
+mackinac  mi, usa.
+macomb  mi, usa.
+macon ga  usa.
+macon il  usa.
+macon mo  usa.
+macon nc  usa.
+macon tn  usa.
 madagam  t.n. india
 madaguppatti  t.n. india
+madakasira  a.p.india
 madakondapalli  t.n. india
+madanapalle  a.p.india
 madanpur,  w.b. india
 madapakkam  t.n. india
 madarihat  w.b. india
 madathukulam  t.n. india
 maddur  kar. india
+madera  ca, usa.
 madhanur  t.n. india
 madhavakuruchi  t.n. india
 madhavaram  t.n. india
+madhira  a.p.india
 madhirimangalam  t.n. india
 madhopur,  pun. india
+madhra  a.p.india
 madhugiri  kar. india
 madikeri  kar. india
+madison  la, usa.
+madison al  usa.
+madison ar  usa.
+madison fl  usa.
+madison ga  usa.
+madison ia  usa.
+madison il  usa.
+madison in  usa.
+madison ky  usa.
+madison mo   usa.
+madison ms  usa.
+madison mt  usa.
+madison nc  usa.
+madison ne  usa.
+madison ny  usa.
+madison oh  usa.
+madison tn  usa.
+madison tx  usa.
+madison va  usa.
+madnur  a.p.india
 madras  t.n. india
+madugula  a.p.india
 madukkarai  t.n. india
 madukkoor  t.n. india
 madurai  t.n. india
@@ -1356,11 +2688,16 @@ maduthupattu  t.n. india
 magaral  t.n. india
 magudanchavadi  t.n. india
 mahabalipuram  t.n. india
+mahabubabad  a.p.india
+mahabubnagar  a.p.india
+mahadeopur  a.p.india
 mahadevapattanam  t.n. india
 mahagaon  kar. india
 mahajan  raj. india
 maharajapuram  t.n. india
 mahathalapuram  t.n. india
+mahbubabad  a.p.india
+mahbubnagar  a.p.india
 mahe  ker. india
 mahendraganj  meg. india
 mahulia  bih. india
@@ -1370,6 +2707,7 @@ mainpuri  u.p. india
 majhaua  u.p. india
 makarachal  ker. india
 makaragajadai  t.n. india
+makhtal  a.p.india
 malaiviyavoor  t.n. india
 malaiyadipalayam  t.n. india
 malaiyur  t.n. india
@@ -1380,6 +2718,8 @@ malappuram  ker. india
 malavalli  kar. india
 malayalanaran  t.n. india
 malayanpalayam  t.n. india
+male  mald.
+malheur  or, usa.
 mallakkinar  t.n. india
 mallankuzhi  t.n. india
 mallapuram  t.n. india
@@ -1415,14 +2755,19 @@ manantavadi  ker. india
 manappadu  t.n. india
 manappakkam  t.n. india
 manapparai  t.n. india
+manatee  fl, usa.
+mancheral  a.p.india
 manda  u.p. india
 mandapam  t.n. india
 mandapasalai  t.n. india
 mandapparai  t.n. india
+mandasa  a.p.india
 mandawra  u.p. india
 mandhur  t.n. india
 mandya  kar. india
 mangadu  t.n. india
+mangahpett  a.p.india
+mangalagiri  a.p.india
 mangalakkudi  t.n. india
 mangalam  t.n. india
 mangalam-2  t.n. india
@@ -1440,6 +2785,7 @@ manikkettipottal  t.n. india
 manimangalam  t.n. india
 manimutharu dam  t.n. india
 maniyachi  t.n. india
+maniz  ger.
 manjanickenpatti  t.n. india
 manjarabad  kar. india
 manjeri  ker. india
@@ -1453,8 +2799,10 @@ mannavanur  t.n. india
 mannur  t.n. india
 manoor  t.n. india
 manora  t.n. india
+manp   o,n.k.
 manpur.  bih. india
 manthakkottai  t.n. india
+manthani  a.p.india
 manulia  bih. india
 manvi  kar. india
 mapuca  goa. india
@@ -1470,10 +2818,47 @@ marathipalayam  t.n. india
 marava  t.n. india
 marchinaickenpalayam  t.n. india
 margram  w.b. india
+maricopa  az, usa.
+marinette  wi, usa.
+marion al  usa.
+marion ar  usa.
+marion fl  usa.
+marion ga  usa.
+marion ia  usa.
+marion il  usa.
+marion in  usa.
+marion ks  usa.
+marion ky  usa.
+marion mo  usa.
+marion ms  usa.
+marion oh  usa.
+marion or  usa.
+marion tn  usa.
+marion tx  usa.
+marion wv  usa.
 markampatti  t.n. india
+markapur  a.p.india
+marlboro  sc, usa.
 marmagao  goa. india
+marquette  mi, usa.
+marquette,  wi, usa.
+marshall al  usa.
+marshall ia  usa.
+marshall il  usa.
+marshall in  usa.
+marshall ky  usa.
+marshall mn  usa.
+marshall ok  usa.
+marshall tn  usa.
+marshall wv  usa.
 marthandam  t.n. india
 marthandampatti  t.n. india
+martin fl  usa.
+martin in  usa.
+martin ky  usa.
+martin mn  usa.
+martin nc  usa.
+martin tx  usa.
 martoli  u.p. india
 marudurai  t.n. india
 maruguppadi  t.n. india
@@ -1484,7 +2869,15 @@ maruthampattur  t.n. india
 maruthur  t.n. india
 masakkalipatti  t.n. india
 masjid moth  del. india
+mason  wv, usa.
+mason il  usa.
+mason ky  usa.
+mason mi  usa.
+mason tx  usa.
+mason wa  usa.
 matabhanga  w.b. india
+matale  s.l.
+matara  s.l.
 mataura,  u.p. india
 mathaji  raj. india
 mathigiri  t.n. india
@@ -1498,6 +2891,9 @@ matigara  w.b. india
 mattancheri  ker. india
 mattathari  t.n. india
 mattikavundanur  t.n. india
+mau, balaghat  m.p.india
+maui  hi, usa.
+maury  tn, usa.
 mavathur  t.n. india
 mavilippatti  t.n. india
 mawphlang  meg. india
@@ -1505,10 +2901,23 @@ mayamankuruchi  t.n. india
 mayiladumparai  t.n. india
 mayiladuthurai  t.n. india
 mayuram  t.n. india
+mc cormick  sc, usa.
+mc curtain  ok, usa.
+mc dowell  wv, usa.
+mc intosh  ga, usa.
+mc kean  pa, usa.
+mc kinley  nm, usa.
+mc minn  tn, usa.
+mecca  s.ar.
 mechcher  t.n. india
 mecheri  t.n. india
+mecosta  mi, usa.
+medak  a.p.india
+medawachchiya  s.l.
+medchal  a.p.india
 meenakshipuram  t.n. india
 meenakshipuram, virudhunagr dt.  t.n. india
+meigs,  tn, usa.
 meiyur  t.n. india
 mekkodu  t.n. india
 melachokanathapuram  t.n. india
@@ -1536,38 +2945,135 @@ melpuram  t.n. india
 melsengam  t.n. india
 melsolankuppam  t.n. india
 melur  t.n. india
+menard,  il, usa.
 menkar  mah. india
+menominee  mi, usa.
 mercara  kar. india
+merced  ca, usa.
+mercer  il  usa.
+mercer  mo  usa.
+mercer  nj, usa.
+mercer  oh  usa.
+mercer  pa  usa.
+mercer ky  usa.
+mercer nd  usa.
+mercer wv  usa.
+mercy c  nwt., can.
+merrimack  nh, usa.
+mesa  co, usa.
 mettukkummal  t.n. india
 mettupalayam  t.n. india
 mettupatti, madurai dt.  t.n. india
 mettuppatti  t.n. india
 mettur  t.n. india
 mettur  t.n. india
+middlesex  va, usa.
+middlesex ct  usa.
+middlesex ma  usa.
+middlesex nj  usa.
+midland  mi, usa.
 midnapore  w.b. india
+milan  ital.
+miller ga  usa.
+miller mo  usa.
+milwaukee  wi, usa.
 mimisal  t.n. india
+miner  sd, usa.
+mineral  wv, usa.
+mineral co  usa.
+mineral nv  usa.
+mingo  wv, usa.
 minjoor  t.n. india
 minnampalli  t.n. india
+miri  mal.
+mirial guda  a.p.india
 mirjan  kar. india
 mirzapur,  w.b. india
 misgar  j&k. india
 misha  a&n. india
+missaukee  mi, usa.
+missoula  mt, usa.
+mitchell ga  usa.
+mitchell ia  usa.
+mitchell nc  usa.
+mitchell tx,   usa.
 mnudigere  kar. india
+mobile  al, usa.
 modakkore  t.n. india
 modakkuruchi  t.n. india
 mohanur  t.n. india
 mohari  mah. india
+mohave  az, usa.
 mohean  a&n. india
 mokavanur  t.n. india
 molakalmuru  kar. india
 mombi  man. india
+monmouth  nj, usa.
+mono  ca, usa.
+monongalia  wv, usa.
+monroe al  usa.
+monroe ar  usa.
+monroe fl  usa.
+monroe ga  usa.
+monroe ia  usa.
+monroe il  usa.
+monroe in  usa.
+monroe ky  usa.
+monroe mi  usa.
+monroe mo  usa.
+monroe ms  usa.
+monroe ny  usa.
+monroe oh  usa.
+monroe pa  usa.
+monroe tn  usa.
+monroe wi  usa.
+monroe wv  usa.
+montague  tx, usa.
+monterey  ca, usa.
+montezuma  co, usa.
+montgomery  ms, usa.
+montgomery al  usa.
+montgomery ga  usa.
+montgomery ia  usa.
+montgomery il  usa.
+montgomery in  usa.
+montgomery ky  usa.
+montgomery md  usa.
+montgomery mi  usa.
+montgomery mo  usa.
+montgomery ny  usa.
+montgomery oh  usa.
+montgomery pa  usa.
+montgomery tn  usa.
+montgomery tx  usa.
+montgomery va  usa.
+montour  pa, usa.
+montrose  co, usa.
 mookkanakuruchi  t.n. india
 moolanur  t.n. india
+moore tn  usa.
+moore tx  usa.
+moosonee  ont, can.
 moovanur  t.n. india
+mora  nm, usa.
 moram  mah. india
 moranahalli  t.n. india
 morappur  t.n. india
+moray firth  u.k.
+morgan al  usa.
+morgan co  usa.
+morgan ga  usa.
+morgan il  usa.
+morgan in  usa.
+morgan ky  usa.
+morgan mo  usa.
+morgan oh  usa.
+morgan tn  usa.
+morgan ut  usa.
+morgan wv  usa.
 moroor  t.n. india
+morris,  nj, usa.
+morrow  oh, usa.
 morsi  mah. india
 mottanoothu  t.n. india
 mousi  t.n. india
@@ -1577,6 +3083,7 @@ mudalur  t.n. india
 mudde bihal  kar. india
 mudgal  kar. india
 mudhalur  t.n. india
+mudhol  a.p.india
 mudhol,  kar. india
 mudigre  kar. india
 mudikondam  t.n. india
@@ -1589,23 +3096,35 @@ mukoodal, tirunelveli dt.  t.n. india
 mul  mah. india
 mulaiyur  t.n. india
 mulantham  t.n. india
+mullaittivu  s.l.
 mullbagal  kar. india
 mullippatti  t.n. india
 mullukkuruchi  t.n. india
+multnomah  or, usa.
+mulug  a.p.india
 mulukkodu  t.n. india
+mumbai
+munagala  a.p.india
 munanjipatti  t.n. india
 mundakayam  ker. india
 mundanthurai  t.n. india
 mundargi  kar. india
 mundra  guj. india
+mungod  a.p.india
+munich  ger.
 munjpur  guj. india
 munnai  t.n. india
 muradaipu  t.n. india
+murray ga  usa.
+murray mn  usa.
+murray ok  usa.
 murshidabad  w.b. india
 murthal  har. india
 murugapadi  t.n. india
+muscatine  ia, usa.
 musiri  t.n. india
 musiri  t.n. india
+muskogee  ok, usa.
 musunthapatti  t.n. india
 muthalapuram  t.n. india
 muthampatti  t.n. india
@@ -1621,11 +3140,13 @@ muttaneri  t.n. india
 muttathur  t.n. india
 mutthupettai  t.n. india
 mutthur  t.n. india
+muttukuru  a.p.india
 mutupet  t.n. india
 mylam  t.n. india
 mylpatti  t.n. india
 mysore  kar. india
 nachiyarkovil  t.n. india
+nacogdoches  tx, usa.
 nadukkaval  t.n. india
 nadukkombai  t.n. india
 naduppatti  t.n. india
@@ -1639,21 +3160,30 @@ nagamangala  kar. india
 nagampalli  t.n. india
 naganoor  t.n. india
 nagapattanam  t.n. india
+nagar karnul  a.p.india
 nagar,  kar. india
+nagaram  a.p.india
 nagaram  t.n. india
 nagaram, ramnad dt.  t.n. india
 nagarasampatti  t.n. india
+nagari  a.p.india
+nagari hills  a.p.india
+nagarjunsagar dam  a.p.india
 nagarkovil  t.n. india
+nagasaki  jap. india.
 nagaveedu  t.n. india
+nagawaram  a.p.india
 nagercoil  t.n. india
 nagoor  t.n. india
 nagoor, coimbatore dt.  t.n. india
 nagore  t.n. india
+nagoya  jap. india.
 nagpur  mah. india
 naickenpalayam  t.n. india
 nainanagaram  t.n. india
 nakur  u.p. india
 naldera  h.p. india
+nalgonda  a.p.india
 nalikkalpatti  t.n. india
 nallampallai  t.n. india
 nallipalayam  t.n. india
@@ -1674,6 +3204,10 @@ nandavanampalayam  t.n. india
 nandhimangalam  t.n. india
 nandhivaram  t.n. india
 nandi drug  kar. india
+nandigama  a.p.india
+nandikanama pass  a.p.india
+nandikotkur  a.p.india
+nandyal  a.p.india
 nangavalli  t.n. india
 nangavaram  t.n. india
 nangling  u.p. india
@@ -1683,9 +3217,17 @@ nanjangud  kar. india
 nannilam  t.n. india
 nanntlam  t.n. india
 nanpara  u.p. india
+nantucket  ma, usa.
 nanuta  u.p. india
+napa  ca, usa.
+naples  ital.
 naraikkinaru  t.n. india
 naraini  u.p. india
+narasannapeta  a.p.india
+narasapattinam point  a.p.india
+narasapur  a.p.india
+narasaraopet  a.p.india
+narayanpet  a.p.india
 narayanpur  kar. india
 naregal  kar. india
 narela  del. india
@@ -1697,32 +3239,43 @@ narippalli  t.n. india
 narivarikkuppam  t.n. india
 nariyampattu  t.n. india
 narkhi  u.p. india
+narsapur  a.p.india
 narsimharajpur  kar. india
+narsipatnam  a.p.india
 narthamalai  t.n. india
 narwana  har. india
 nasirabad  mah. india
+nassau ny  usa.
+natavaram  a.p.india
+natchitoches  la, usa.
 natham  t.n. india
 natham, vellore dt.  t.n. india
 natrampalli  t.n. india
+natrona  wy, usa.
 nattam  t.n. india
 nattamangalam  t.n. india
 nattampatti  t.n. india
 nattarasankottai  t.n. india
 natteri, vellore dt.  t.n. india
 nauhata  bih. india
+naupada  a.p.india
+navajo  az, usa.
 navalur  t.n. india
 navani  t.n. india
 nawabganj, gonda  u.p. india
 nayakaneri  t.n. india
 nayavaram  t.n. india
 nayinarkovil  t.n. india
+nayudupet  a.p.india
 nazareth  t.n. india
+neagh l  u.k.
 nedumangalam  t.n. india
 nedumpadam  t.n. india
 nedungal  t.n. india
 needamangalam  t.n. india
 neelambur  t.n. india
 neeppathurai  t.n. india
+negombo  s.l.
 neikarappatti  t.n. india
 neikkuppai  t.n. india
 neithalore  t.n. india
@@ -1736,20 +3289,49 @@ nellikkuppam  t.n. india
 nellikkuppam, kanchipuram dt.  t.n. india
 nellikuppam  t.n. india
 nellithurai  t.n. india
+nellore  a.p.india
+nelson ky  usa.
+nelson va  usa.
+nelson,  b.c., can.
 nelvai  t.n. india
 nelvasalnadu  t.n. india
+nemaha,  ks, usa.
 nemili  t.n. india
 nemili, vellore dt.  t.n. india
+nene  u.k.
 nenmeni  t.n. india
+neosho  ks, usa.
+nepal ganj  nep.
 nerinjipettai  t.n. india
 nerkunam  t.n. india
 neruppur  t.n. india
 nesakulam  t.n. india
 nesal  t.n. india
 nethavadi  t.n. india
+nevada  ca, usa.
+new castle  de, usa.
+new haven  ct, usa.
+new london  ct, usa.
+new york  ny, usa.
+newaygo  mi, usa.
+newcastle  u.k.
+newfoundland  nfld, can.
+newport  ri, usa.
+newport,  u.k.
+newton ar  usa.
+newton ga  usa.
+newton in  usa.
+newton mo  usa.
+newton ms  usa.
+newton tx  usa.
 neyveli  t.n. india
 neyyattinkara  ker. india
+niagara falls  ont., can.
 nichlaul  u.p. india
+nicholas  ky, usa.
+nicollet  mn, usa.
+nidadavolu  a.p.india
+nidagunda  a.p.india
 nijarath  t.n. india
 nilaiyur  t.n. india
 nilakottai  t.n. india
@@ -1758,21 +3340,45 @@ nileshwaram  ker. india
 nilgaon  u.p. india
 nilgiri hills  t.n. india
 nimbal  kar. india
+niobrara  wy, usa.
 nipani  kar. india
 niralai  t.n. india
+nirmal  a.p.india
 niwai  raj. india
 niwari  u.p. india
+nizam sagar lake  a.p.india
+nizamabad  a.p.india
+nizampatnam  a.p.india
+noble in  usa.
+noble oh  usa.
+noble ok  usa.
+nodaway  mo, usa.
 nohar river  raj. india
 noivasal  t.n. india
 nokerk peak  meg. india
+nolan  tx, usa.
+nome  ak, usa.
 nonghpoh  meg. india
 nongkhlao  meg. india
 nongstonin  meg. india
 noorpur  h.p. india
+norfolk,  ma, usa.
+north downs  u.k.
+north foreland  u.k.
+north minch  u.k.
+northampton,  pa, usa.
+norton va  usa.
+norwich  u.k.
+nowata  ok, usa.
+nugur  a.p.india
 nullur  kar. india
 nunrana  raj. india
 nurpur  u.p. india
+nuwara eliya  s.l.
+nuzvid  a.p.india
 nyoriya husenpur  u.p. india
+ocean  nj, usa.
+oconto  wi, usa.
 odaikkal  t.n. india
 odaipatti  t.n. india
 odaippatti  t.n. india
@@ -1782,6 +3388,13 @@ odathurai  t.n. india
 odiyathur  t.n. india
 odukathur  t.n. india
 odupara  t.n. india
+ogemaw  mi, usa.
+ohio  in, usa.
+okanogan  wa, usa.
+okayama  jap. india.
+okfuskee  ok, usa.
+oklahoma  ok, usa.
+okmulgee  ok, usa.
 olaipadi  t.n. india
 olaiyur  t.n. india
 olaiyur, perambalur dt.  t.n. india
@@ -1789,12 +3402,17 @@ olakkur  t.n. india
 olakur  t.n. india
 olavakkod  ker. india
 olavalsu  t.n. india
+olympus  gre.
 omakkuppam  t.n. india
 omalur  t.n. india
 omandhur  t.n. india
 ondanai  t.n. india
+oneida  wi, usa.
+oneida,  ny, usa.
 ongur  t.n. india
 onnupuram  t.n. india
+onondaga  ny, usa.
+ontonagon  mi, usa.
 ooralpatti  t.n. india
 ootacamund, t.n. india
 oothangudi  t.n. india
@@ -1802,20 +3420,52 @@ oothankarai  t.n. india
 oran  u.p. india
 oranalli  t.n. india
 orangadam  t.n. india
+orange ca  usa.
+orange fl  usa.
+orange in  usa.
+orange ny  usa.
+orange tx  usa.
+orange va  usa.
+orange vt  usa.
+orangeburg  sc, usa.
 orathanadu  t.n. india
 orivayal  t.n. india
 oriyur  t.n. india
+orkney is  u.k.
+orleans ny  usa.
+orleans vt  usa.
+osage  ok  usa.
+osage ks  usa.
+osage mo  usa.
+osaka  jap. india.
+osceola fl  usa.
+osceola ia  usa.
+osceola mi  usa.
+oscoda  mi, usa.
+osmannapar  a.p.india
+otsego  ny, usa.
+otsego mi  usa.
 ottanchathiram  t.n. india
 ottapalam  kar. india
 ottapidaram  t.n. india
+ottawa  ont., can.
+ottawa ks  usa.
+ottawa mi  usa.
+ottawa oh  usa.
+ottawa ok  usa.
 otteri  t.n. india
 ottivakkam  t.n. india
+ouachita  ar, usa.
+overton  tn, usa.
+owsley ky  usa.
+oxford  me, usa.
 oyster rocks  kar. india
 pachal  t.n. india
 pachalur  t.n. india
 pachamadevi  t.n. india
 pachapalayam, erode dt.  t.n. india
 pachperwa  u.p. india
+pacific  wa, usa.
 padagam  t.n. india
 padaiveedu  t.n. india
 padalam  t.n. india
@@ -1827,6 +3477,7 @@ padiyamputtur  t.n. india
 padiyanallur  t.n. india
 padiyur  t.n. india
 padiyur, dindugul dt.  t.n. india
+padmanabham  a.p.india
 padmanabhapuram  t.n. india
 padmaneri  t.n. india
 padmudipalayam  t.n. india
@@ -1837,11 +3488,14 @@ paikahlia  u.p. india
 paikar  w.b. india
 pailani  u.p. india
 paithoor  t.n. india
+pakala  a.p.india
+pakhal lake  a.p.india
 pakkam  t.n. india
 pakkam, villupuram dt.  t.n. india
 pakkuvetti  t.n. india
 palakkanur  t.n. india
 palakkode  t.n. india
+palakollu  a.p.india
 palalankwe  a&n. india
 palam intr airport  del. india
 palamalai  t.n. india
@@ -1865,6 +3519,7 @@ palayanur  t.n. india
 palghat  ker. india
 paliyad  guj. india
 paliyappattu  t.n. india
+palkohda  a.p.india
 palkulam  t.n. india
 palladam  t.n. india
 pallanthurai  t.n. india
@@ -1881,12 +3536,18 @@ pallipattu, thiruvallur dt.  t.n. india
 pallivasal  ker. india
 pallukkal  t.n. india
 pallur  t.n. india
+palm beach  fl, usa.
+palmaner  a.p.india
 palni  t.n. india
+palo pinto  tx, usa.
+paloncha  a.p.india
 palsi  mah. india
 palur, kanchipuram dt.  t.n. india
 palyankottai, cuddalore dt.  t.n. india
 pambakovilsanthai  t.n. india
 pamban  t.n. india
+pamidi  a.p.india
+panagiri  a.p.india
 panaikkadu  t.n. india
 panaikkudi  t.n. india
 panaikkulam  t.n. india
@@ -1909,6 +3570,8 @@ pandikkanni  t.n. india
 pandoor  t.n. india
 pandud  w.b. india
 pandukkudi  t.n. india
+pangal, meboobnagar  a.p.india
+pangal, nalgonda  a.p.india
 panipat  har. india
 panjalankurichi  t.n. india
 panjapatti  t.n. india
@@ -1942,15 +3605,22 @@ paranji  t.n. india
 paratwada  mah. india
 paravur  ker. india
 parbhani  mah. india
+pargi  a.p.india
+park  co, usa.
+parkal  a.p.india
+parkasam  a.p.india
 parriyam  t.n. india
 partur  mah. india
 parui  ker. india
 parur  t.n. india
 parur,  ker. india
 paruvakkudi  t.n. india
+parvathipuram  a.p.india
+passaic  nj, usa.
 pasu  j&k. india
 pasumalai  t.n. india
 pasumbalur  t.n. india
+patancheru  a.p.india
 patchaiperumalpatti  t.n. india
 patenga  bih. india
 pathardewa  u.p. india
@@ -1960,29 +3630,46 @@ patlur  t.n. india
 pattamadai  t.n. india
 pattanam  t.n. india
 pattanapuram  ker. india
+pattancheru  a.p.india
 pattaraikkadu  t.n. india
 pattidevanpatti  t.n. india
+pattikonda  a.p.india
 pattukkani  t.n. india
 pattukkottai  t.n. india
 pavagada  kar. india
 pavalur  t.n. india
 pavithram  t.n. india
 pavithram, namakkal dt.  t.n. india
+pawnee ks  usa.
+pawnee ne  usa.
 payannapuram  t.n. india
 payarnatham  t.n. india
+payette  id, usa.
+peace, alta  can.
+pearl river  ms, usa.
 pechupparai  t.n. india
 pedagam  t.n. india
+pedapalli  a.p.india
+peddapuram  a.p.india
 peelamedu  t.n. india
 pegarahalli  t.n. india
 pehowa  har. india
 peint  mah. india
+pembina  nd, usa.
 pen  mah. india
 penadam  t.n. india
+pend oreille  wa, usa.
+pendleton  ky, usa.
 penduv  mah. india
 pennaiyar  t.n. india
 pennakaram  t.n. india
 pennari  t.n. india
 pennathur  t.n. india
+pennine chain  u.k.
+penobscot  me, usa.
+pentakota  a.p.india
+penuelas  pr, usa.
+penukonda  a.p.india
 peraiyur  t.n. india
 peralam  t.n. india
 peramanallur  t.n. india
@@ -2006,6 +3693,17 @@ periyapalayam  t.n. india
 periyapattanam  t.n. india
 periyappatti  t.n. india
 periyar lake  ker. india
+perkins  sd, usa.
+perry  ky, usa.
+perry al  usa.
+perry ar  usa.
+perry il  usa.
+perry in  usa.
+perry mo  usa.
+perry ms  usa.
+perry oh  usa.
+perry pa  usa.
+perry tn  usa.
 perumal aeri  t.n. india
 perumalpatti  t.n. india
 perumanallur  t.n. india
@@ -2024,31 +3722,81 @@ perunkarunai  t.n. india
 perunkolathur  t.n. india
 perunkualam  t.n. india
 perunkudi  t.n. india
+peruru  a.p.india
 peruvalanallur  t.n. india
 peruvalappur  t.n. india
+peshawar  pak.
+peterborough  u.k.
+petersburg  va, usa.
 peth  mah. india
 pettaivayathalai  t.n. india
 peyinkulam  t.n. india
+phelps  mo, usa.
+philadelphia  pa, usa.
+phillips  ar  usa.
+phillips  mt  usa.
+phillips ks  usa.
 pichavaram  t.n. india
+pickaway  oh, usa.
+pickens,  al, usa.
+pierce ga  usa.
+pierce ne  usa.
+pierce wa  usa.
+pierce wi  usa.
 pikaldadi  mah. india
+pike  oh, usa.
+pike al  usa.
+pike ar  usa.
+pike il  usa.
+pike in  usa.
+pike ky  usa.
+pike pa  usa.
+piler  a.p.india
 pillaiyarpatti  t.n. india
 pillankulam  t.n. india
 pillayarkulam  t.n. india
 pilloor, sivagangai dt.  t.n. india
+pima  az, usa.
 pinakkanahalli  t.n. india
+pinal  az, usa.
+pinang  mal.
 pinjaur  h.p. india
 pirattiyur  t.n. india
 piravam  ker. india
 pirawad  ker. india
 pirmed  ker. india
+pisa  ital.
+pitcairn is  u.k.
+pithapuram  a.p.india
+pitkin  co, usa.
+piute  ut, usa.
+placer  ca, usa.
 plassey  w.b. india
+platte,  ne, usa.
+pleasants  wv, usa.
+plymouth,  u.k.
+plymouth.,  ma, usa.
+pocahontas  wv, usa.
+pocahontas,  ia, usa.
 podanur  t.n. india
 podanur, namakkal dt.  t.n. india
 podathurpettai  t.n. india
+podile  a.p.india
 poikai  t.n. india
 poikaipatti  t.n. india
 point calimere  t.n. india
+pointe coupee  la, usa.
+polavaram  a.p.india
 polippakkam  t.n. india
+polk  or, usa.
+polk fl  usa.
+polk ia  usa.
+polk mn  usa.
+polk mo  usa.
+polk nc  usa.
+polk ne  usa.
+polk tn  usa.
+polk wi  usa.
 pollachi  t.n. india
 pollachi  t.n. india
 polur  t.n. india
@@ -2067,6 +3815,8 @@ ponnivadi  t.n. india
 ponpadi  t.n. india
 ponparappi  t.n. india
 ponpetti  t.n. india
+pontotoc  ok, usa.
+pontotoc,  ms, usa.
 ponvasal  t.n. india
 poolampatti  t.n. india
 poolampatti, dindugul dt.  t.n. india
@@ -2074,20 +3824,47 @@ poolankinar  t.n. india
 poolankuruchi  t.n. india
 poolathur  t.n. india
 poolavadi  t.n. india
+poole  u.k.
 poomalur  t.n. india
 poonamalle  t.n. india
 poondi  t.n. india
 poonthamalli  t.n. india
 poosarippatti  t.n. india
 poovalur  t.n. india
+pope  il, usa.
 poraiyar  t.n. india
 porani  t.n. india
 port canning   w.b. india
+port elizabeth  s.a.
+porter  in, usa.
+portland bill  u.k.
 porto nova  t.n. india
+portsmouth  va, usa.
+portsmouth,  u.k.
+porumamilla  a.p.india
 pottalpatti  t.n. india
+pottawatomie  ks, usa.
 pottipuram  t.n. india
 pottireddipatti  t.n. india
+pottuvil  s.l.
+powder river  mt, usa.
+powell  ky, usa.
+poweshiek  ia, usa.
+powhatan  va, usa.
+pr of wales-o ketchikan  ak, usa.
+pr. rupert  b.c.
+prairie  ar, usa.
+prakasam  a.p.india
 pranmalai  t.n. india
+presidio  tx, usa.
+preston  wv, usa.
+preston,  u.k.
+price  wi, usa.
+prince george,  b.c.,can.
+prince georges  md, usa.
+prince patrick  nwt.,can.
+proddatur  a.p.india
+providence  ri, usa.
 prunkatoor  t.n. india
 pudamangalam  t.n. india
 puduchathiram  t.n. india
@@ -2117,11 +3894,19 @@ pudur, tuticorin dt.  t.n. india
 pudurthurai  t.n. india
 puduvayal  t.n. india
 puduvayal, thiruvallur dt.  t.n. india
+pueblo  co, usa.
 pugalur  t.n. india
 pugalur, vellore dt.  t.n. india
 pulam  t.n. india
 pulampadi  t.n. india
 pulangal  t.n. india
+pulaski  ar  usa.
+pulaski  ga  usa.
+pulaski  il  usa.
+pulaski  in  usa.
+pulaski  ky, usa.
+pulaski  mo  usa.
+pulaski va  usa.
 puliamarathukkotai  t.n. india
 puliangudi  t.n. india
 puliankuruchi  t.n. india
@@ -2130,14 +3915,18 @@ pulicat  t.n. india
 pulikara  t.n. india
 pulipparai  t.n. india
 pulivalam  t.n. india
+pulivendla  a.p.india
 puliyan  t.n. india
 puliyangudi  t.n. india
 puliyara  t.n. india
 puliyur  t.n. india
 puliyur, thiruvannamalai dt.  t.n. india
 pullampadi  t.n. india
+pullampet  a.p.india
 puluvappatti  t.n. india
 punalur  ker. india  india
+pune
+punganuru  a.p.india
 punjaipuliampatti  t.n. india
 punnai  t.n. india
 puravipalayam  t.n. india
@@ -2146,15 +3935,28 @@ pushpathur  t.n. india
 puthambur  t.n. india
 puthambur, pudukkottai dt.  t.n. india
 puthirakavundanpalayam  t.n. india
+putnam ga  usa.
+putnam in  usa.
+putnam ny  usa.
+putnam oh  usa.
+putnam,  fl, usa.
+puttalam  s.l.
 puttanatham  t.n. india
 puttanatham, trichy dt.  t.n. india
 puttur  kar. india.  india
 puttur, erode dt.  t.n. india
 puttur, karur dt.  t.n. india
 puttur, virudhunagar dt.  t.n. india
+pyapali  a.p.india
+quachita  la, usa.
+quay  nm, usa.
+queens  ny, usa.
 quepem  goa. india  india
 quilandi  ker. india  india
 quilon  ker. india  india
+quitman  ga, usa.
+quitman,  ms, usa.
+racine  wi, usa.
 radhanpur  guj.  india
 radhanur  t.n. india
 radhapuram  t.n. india
@@ -2163,9 +3965,12 @@ raichur  kar. india.  india
 raikot  pun. india.  india
 raipur  w.b. india  india
 rajadhani  t.n. india
+rajahmundry  a.p.india
 rajakkamangalathurai  t.n. india
+rajam  a.p.india
 rajamatam  t.n. india
 rajamatham  t.n. india
+rajampet  a.p.india
 rajankudi  t.n. india
 rajapalayam  t.n. india
 rajapalayam  t.n. india
@@ -2178,9 +3983,15 @@ rajnagar.,  w.b. india  india
 rajpipla  guj.  india
 rajpura  pun. india.  india
 rajula  guj.  india
+raleigh  wv, usa.
+ralls  mo, usa.
+ram
+ramachandrapuram  a.p.india
 ramachandrapuram  t.n. india
+ramaghat  a.p.india
 ramakrishnapettai  t.n. india
 ramakrishnapuram  t.n. india
+ramallakota  a.p.india
 ramanagaram  kar. india.  india
 ramanathachampudur  t.n. india
 ramanathapuram  t.n. india
@@ -2192,59 +4003,144 @@ ramapuram  t.n. india
 ramapuram, namakkal dt.  t.n. india
 ramapuram, vellore dt.  t.n. india
 ramasamipatti  t.n. india
+ramatakotta  a.p.india
+ramavaram  a.p.india
+ramayampet  a.p.india
 ramdurg  kar. india.  india
 rameshwaram road  t.n. india
 rameswaram  t.n. india
 ramiyanhalli  t.n. india
 rampur..  guj.  india
 ramrajtala  w.b. india  india
+ramsey mn  usa.
 ramshai hat  w.b. india  india
 ranagar  w.b. india  india
+randolph  in, usa.
+randolph al  usa.
+randolph ar  usa.
+randolph il  usa.
+randolph mo  usa.
+randolph nc  usa.
 rangampettai  t.n. india
 ranganathapuram  t.n. india
+rangoon  burm.
 ranibennur  kar. india.  india
 ranipettai  t.n. india
 rapa  guj.  india
+rapides  la, usa.
 rapur  guj.  india
+rapur,  a.p.india
 rasalppatti  t.n. india
 rasingapuram  t.n. india
 rasipuram  t.n. india
 ratanpur,  guj.  india
+ratnapura  s.l.
 ravanapuram  t.n. india
+rawalpindi  pak.
+ray  mo, usa.
+rayachoti  a.p.india
+rayadurg  a.p.india
 rayagiri  t.n. india
 rayappanpatti  t.n. india
+razam  a.p.india
+razole  a.p.india
+red river  la, usa.
+red willow  ne, usa.
 reddipatti  t.n. india
 reddiyapalayam  t.n. india
 reddiyarchathiram  t.n. india
+regina sask  can.
+rekapalle  a.p.india
+relli  a.p.india
+renigunta  a.p.india
+reno  ks, usa.
+repalle  a.p.india
+repur  a.p.india
+reswood  mn, usa.
+rice ks  usa,
+rice ut  usa.
+richland ga  usa.
+richland il  usa.
+richland mt  usa.
+richland nc  usa.
+richland ny  usa.
+richland oh  usa.
+richland sc  usa.
+richland va  usa.
+richland wi  usa.
+riley  ks, usa.
+rincon  pr, usa.
+rio blanco  co, usa.
+rio grande.,  pr, usa.
+ritchie  wv, usa.
+riverside  ca, usa.
+riyadh  s.ar.
+roanoke,  va, usa.
 robert sonepat  kar. india.  india
+roberts  tx, usa.
+robertson  tx, usa.
+robertson,  tn, usa.
+robson mt  b.c.,can.
+rock mn  usa.
+rock ne  usa.
+rock wi  usa.
+rockcastle  ky, usa.
+rockingham,  nh, usa.
+rogers  ok, usa.
+rolette  nd, usa.
+rome  ital.
 ron  kar. india.  india
 rongphu  sik. india  india
 rongrengiri  meg. india  india
 royakkottai  t.n. india
+rrr
 rupar  pun. india.  india
+rush al  usa.
+rush in  usa.
+rush ks  usa.
+rush tx  usa.
+rush wi  usa.
+russell  va, usa.
+russell ks  usa.
+russell ky  usa.
+rutherford,  tn, usa.
+rutland  vt, usa.
+sabine,  la, usa.
 sabual  miz.  india
 sachin  guj.  india
 sadaiyapalayam  t.n. india
+sadaseopet  a.p.india
 sadayaneri  t.n. india
 sadra  guj.  india
 sadras  t.n. india
 sagar, gulbarga  kar. india.  india
 sagar, shimoga  kar. india.  india
+saguache  co, usa.
 saidapet  t.n. india
 sairang  miz.  india
 saitu  man.  india
+saizgitter  ger.
 sakhan  tri. india.  india
 sakkammalpuram  t.n. india
 sakkottai  t.n. india
 sakleshpur  kar. india.  india
 saktipur  w.b. india  india
 salaigramam  t.n. india
+salem  nj, usa.
 salem  t.n. india
 salem junction  t.n. india
+salem,  va, usa.
 salem.  t.n. india
+salinas  pr, usa.
+saline ar  usa.
+saline ks  usa.
+salt lake  ut, usa.
+saluda  sc, usa.
+salur  a.p.india
 samai  guj.  india
 samakkulam  t.n. india
 samalapuram  t.n. india
+samalkot  a.p.india
 samana  pun. india.  india
 samathur  t.n. india
 samayanallur  t.n. india
@@ -2255,12 +4151,30 @@ samiyapuram  t.n. india
 sampangarai  t.n. india
 samrala  pun. india.  india
 samuthiram  t.n. india
+san augustine  tx, usa.
+san diego  ca, usa.
+san francisco  ca, usa.
+san german  pr, usa.
+san iuis obispo  ca, usa.
+san joaquin  ca, usa.
+san juan  ut, usa.
+san juan co  usa.
+san juan nm  usa.
+san juan pr  usa.
+san mateo  ca, usa.
+san miguel  nm, usa.
+san miguel co  usa.
+san patricio  tx, usa.
+san saba  tx, usa.
 sanamavavu  t.n. india
 sanand  guj.  india
 sancheriputhur  t.n. india
 sandi  u.p. india
 sandur  kar. india
+sangam  a.p.india
+sangareddi  a.p.india
 sangavudi  t.n. india
+sanilac  mi, usa.
 sanipoondi  t.n. india
 sankagiri  t.n. india
 sankaranayinarkovil  t.n. india
@@ -2270,6 +4184,10 @@ sankarapuram, villupuram dt.  t.n. india
 sankaridrug  t.n. india
 sankeshwar  kar. india
 sanquem  goa. india
+santa cruz az  usa.
+santa fe  nm, usa.
+santa isabel  pr, usa.
+santapilly  a.p.india
 santhapadi  t.n. india
 sarahan,  h.p. india
 sarai akil  u.p. india
@@ -2278,11 +4196,14 @@ sarai mir  u.p. india
 saraikela  bih. india
 saranthapalli  t.n. india
 saravai  t.n. india
+sarawak  mal.
 sarkar  t.n. india
 sarkar samkkulam  t.n. india
 sarkeshpur  kar. india
 sarwar river  raj. india
 sasaiyapparpattanam  t.n. india
+saskatchewan, sask  can.
+saskatoon, sask  can.
 sasni  u.p. india
 sathaiyar  t.n. india
 sathampadi  t.n. india
@@ -2296,6 +4217,7 @@ sathukudi  t.n. india
 sathyamangalam  t.n. india
 satopanth mt  u.p. india
 satrikh  u.p. india
+sattenapalle  a.p.india
 sattur  t.n. india
 satyamangalam  t.n. india
 sauma  u.p. india
@@ -2305,6 +4227,24 @@ savanur  kar. india
 sayalkudi  t.n. india
 sayanakutta  t.n. india
 sayarpuram  t.n. india
+schenectady  ny, usa.
+schley  ga, usa.
+schoharie  ny, usa.
+schuyler  ny, usa.
+scotland,  u.k.
+scott ar  usa.
+scott il  usa.
+scott in  usa.
+scott ks  usa.
+scott ky  usa.
+scott mn  usa.
+scott mo  usa.
+scott ms  usa.
+scott tn  usa.
+scott va  usa.
+screven  ga, usa.
+searcy  ar, usa.
+secunderabad  a.p.india
 sedappatti  t.n. india
 sedukkarai  t.n. india
 seelakudi  t.n. india
@@ -2323,12 +4263,14 @@ sembamuthur  t.n. india
 sembatti  t.n. india
 sembhagathoppu  t.n. india
 sembiem  t.n. india
+seminole  ok, usa.
 semmarikulam  t.n. india
 semrauta  u.p. india
 senbagathoppu  t.n. india
 senbhagaramapuram  t.n. india
 sendurai  t.n. india
 sendurai, perambalur dt.  t.n. india
+seneca  ny, usa.
 sengadu  t.n. india
 senganatham  t.n. india
 sengattupatti  t.n. india
@@ -2342,6 +4284,8 @@ sentharappatti  t.n. india
 seohara  u.p. india
 seoni.  h.p. india
 separai  t.n. india
+sequatchie  tn, usa.
+sequoyah  ok, usa.
 seram  kar. india
 seringapatam  kar. india
 set mahet  u.p. india
@@ -2350,8 +4294,12 @@ sethiyathoppu  t.n. india
 sethuppattu  t.n. india
 sethur  t.n. india
 sevaith  u.p. india
+severn  u.k.
+sevier  tn, usa.
+sevier,  ut, usa.
 sevoor  t.n. india
 sevvoor  t.n. india
+seward  ne, usa.
 seyyar  t.n. india
 shadiabad  u.p. india
 shafakhana  u.p. india
@@ -2366,15 +4314,32 @@ shahjahanpur  u.p. india
 shahpur  kar. india
 shakurpur  del. india
 shamli  u.p. india
+shamsabad  a.p.india
 shamsabad, farrukhabad  u.p. india
 shankargarh  u.p. india
 shanmuganathapuram  t.n. india
 shanmugasundarapuram  t.n. india
 sharavati  kar. india
+sharp  ar, usa.
+shasta  ca, usa.
+shawnee  ks, usa.
+shelby al  usa.
+shelby ia  usa.
+shelby il  usa.
+shelby in  usa.
+shelby ky  usa.
+shelby mo  usa.
+shelby oh  usa.
+shelby tx  usa.
 shencottah  t.n. india
+sherburne  mn, usa.
 shergarh  u.p. india
+sheridan  wy, usa.
+sheridan,  mt, usa.
+sherman  ne, usa.
 sherpur  u.p. india
 shertally  ker. india
+shetland is  u.k.
 shevaipettai, thiruvallur dt.  t.n. india
 shiggaon  kar. india
 shikarpur  kar. india
@@ -2384,9 +4349,16 @@ shillong  meg. india
 shimoga  kar. india
 shivaganga  t.n. india
 shorapur  kar. india
+shoshone  id, usa.
 shrirangapattana  kar. india
+sialkot  pak.
 siat  u.p. india
+sibu  mal.
+siddhavattam  a.p.india
+siddipet  a.p.india
 sidlaghatta  kar. india
+siegen  ger.
+sierra nm  usa.
 sihalahapalli  t.n. india
 sikandra rao  u.p. india
 sikkal  t.n. india
@@ -2395,6 +4367,8 @@ silanchini  t.n. india
 silayampatti  t.n. india
 silvarpatti  t.n. india
 silvarpatti, theni dt.  t.n. india
+simaria,  m.p.india
+simpson  ky, usa.
 sindgi  kar. india
 sindhnur  kar. india
 singa(pass)  j&k. india
@@ -2404,8 +4378,10 @@ singampunari, sivagangai dt.  t.n. india
 singanallur  t.n. india
 singanallur,  erode dt.  t.n. india
 singaperumal kovil  t.n. india
+singapore  sing.
 singara  t.n. india
 singarappettai  t.n. india
+singareni  a.p.india
 singattakurichi  t.n. india
 singattakurichi, pudukkottai dt.  t.n. india
 singeri  kar. india
@@ -2418,8 +4394,10 @@ sirathu  u.p. india
 sirirangapuram  t.n. india
 sirirangapuram, theni dt.  t.n. india
 sirkazhi  t.n. india
+sirpur,  a.p.india
 sirsa  u.p. india
 sirsi  kar. india
+sirsilla  a.p.india
 siruguppa  kar. india
 sirukamani  t.n. india
 sirukanur  t.n. india
@@ -2434,8 +4412,11 @@ siruvalayam  t.n. india
 siruvallur  t.n. india
 siruvani  t.n. india
 siruveviduthurai  t.n. india
+sirvel  a.p.india
+sisklyou  ca, usa.
 siswa tal  u.p. india
 sitapur,  u.p. india
+sitarampuram  a.p.india
 sithamoore  t.n. india
 sitheri  t.n. india
 sithilingi  t.n. india
@@ -2450,23 +4431,38 @@ sivasamudram island  kar. india
 sivayam  t.n. india
 siwana  raj. india
 siyana  u.p. india
+skagit  wa, usa.
+skamania  wa, usa.
+smith ms  usa.
+smith tn  usa.
+smith tx  usa.
+snohomish  wa, usa.
 sobala  u.p. india
+socorro  nm, usa.
 sohawal  u.p. india
 sojat river  raj. india
 sojat road  raj. india
 sojna  u.p. india
 solaiyur  t.n. india
+solano  ca, usa.
 solavandan  t.n. india
 solingar  t.n. india
 solingar, vellore dt.  t.n. india
+solway firth  u.k.
 somanathamangalam  t.n. india
 somanur  t.n. india
 somasapadi  t.n. india
 somavarappatti  t.n. india
+somerset  nj, usa.
+somerset md  usa.
+somerset me  usa.
+somerset pa  usa.
+sompeta  a.p.india
 somvarpet  kar. india
 sonamara  j&k. india
 sonamura  tri. india
 sonaripur  u.p. india
+sonoma  ca, usa.
 sonthapur  t.n. india
 soolagiri  t.n. india
 soolakuntha  t.n. india
@@ -2477,19 +4473,77 @@ sorab  kar. india
 sothukkinni  t.n. india
 sothuppakkam  t.n. india
 sothupparai  t.n. india
+south downs  u.k.
+south shields  u.k.
+southampton  u.k.
+southend-on-sea  u.k.
+southern uplands  u.k.
+spencer ky  usa.
+spokane  wa, usa.
+spurn hd  u.k.
+sri hari kota  a.p.india
+sri jayawardhana  s.l.
+sri sailam  a.p.india
+srikakulam  a.p.india
+srikalahasti  a.p.india
 srimangala  kar. india
 srimushnam  t.n. india
 sringeri  kar. india
 srirangam  t.n. india
+srisailam  a.p.india
 srivaikundam  t.n. india
 srivaikuntham  t.n. india
 srivilliputhur  t.n. india
+srungavarapukota  a.p.india
+st clair al  usa.
+st clair il  usa.
+st clair mo  usa.
+st francis  ar, usa.
+st james  la, usa.
+st johns  fl, usa.
+st joseph  mi, usa.
+st lawrence  ny, usa.
+st marys  md, usa.
+st tammany  la, usa.
+st. georges channel  u.k.
+st. johns,  a & b.
+st. lawrence  nfld, can.
+st. nazaire  fran.
 st. thomas mount  t.n. india
+stark il  usa.
+stark nd  usa.
+stark oh  usa.
+starr  tx, usa.
+ste genevieve  mo, usa.
+steuben,  ny, usa.
+stevens  wa, usa.
+stewart,  ga, usa.
+stockton-on-tees  u.k.
+stoke-on-trent  u.k.
+stone  mo, usa.
+stone,  ar, usa.
+stone.  ms, usa.
+strafford  nh, usa.
 sucheendram  t.n. india
+sudbury  ont., can.
+suffolk  ny, usa.
+suffolk,  ma, usa.
 sujanganj  u.p. india
+sullivan  in  usa.
+sullivan  nh  usa.
+sullivan  pa  usa.
+sullivan tn  usa.
+sully  sd, usa.
 sultanpur  u.p. india
 sultanpura, saharanpur  u.p. india
 sulur  t.n. india
+suluru  a.p.india
+summers  wv, usa.
+summit co  usa.
+summit ut  usa.
+sumter fl  usa.
+sumter ga  usa.
+sumter sc  usa.
 sunampettai  t.n. india
 sundakkadu  t.n. india
 sundarapandiyapattanam  t.n. india
@@ -2507,33 +4561,81 @@ suranthai  t.n. india
 suratgarh  raj. india
 suratgarli  raj. india
 surianwan  u.p. india
+suriapet  a.p.india
 suriyanallur  t.n. india
 surpura  raj. india
 suruli falls  t.n. india
 surulippatti  t.n. india
+sussex de  usa.
+sussex nj  usa.
+sussex va  usa.
 suthamalli  t.n. india
+sutton  tx, usa.
+suverdrup is.,  nwt.,can.
+suwannee  fl, usa.
 swamimalai  t.n. india
 swamthalli  kar. india
+swansea  u.k.
+sweetwater  wy, usa.
+switzerland  in, usa.
+tadpatri  a.p.india
+taipei  taiw.
+takapalle  a.p.india
+talbot  md, usa.
+talbot,  ga, usa.
 talguppa  kar. india
 talikota  kar. india
 taliparamba  kar. india
+talladega  al, usa.
+tallahatchie  ms, usa.
+tallapoosa  al, usa.
+tama abu ra  mal.
+tamar  u.k.
 tandi  h.p. india
+tandor karim nagar  a.p.india
+tandur hyd  a.p.india
+taney  mo, usa.
 tangasseri  kar. india
 tanjavur  t.n. india
 tanot river  raj. india
 tantpur river  u.p. india
+tanuku  a.p.india
 tanur  ker. india
+taos  nm, usa.
 tappal  u.p. india
 tarabganj  u.p. india
 tarahuwan  u.p. india
 tarangambadi  t.n. india
 tarikere  kar. india
+tarrant  tx, usa.
+taxas,  ok,usa.
+tay  u.k.
+tay,  u.k.
+taylor  ky, usa.
+taylor fl  usa.
+taylor ga  usa.
+taylor ia  usa.
+taylor tx  usa.
+taylor wi  usa.
+taylor wv  usa.
+tazewell,  va, usa.
+tees  u.k.
+tehama  ca, usa.
 tehri  u.p. india
+tekkali  a.p.india
+tekmal  a.p.india
+telfair  ga, usa.
 tellar  t.n. india
 telungupalayam  t.n. india
+tenali  a.p.india
 tenkasi  t.n. india
+tensas  la, usa.
 terakanambi  kar. india
+terrell ga  usa.
+terrell tx  usa.
+teton,  wy, usa.
 tevaram  t.n. india
+texas  mo, usa.
 tezan  u.p. india
 thachanallur  t.n. india
 thagattur  t.n. india
@@ -2695,6 +4797,8 @@ tholavoothu  t.n. india
 tholudur  t.n. india
 tholupedu  t.n. india
 tholurpatti  t.n. india
+thomas  ks  usa.
+thomas  ne  usa.
 thomas mounst  t.n. india
 thondamuthur  t.n. india
 thondi  t.n. india
@@ -2722,6 +4826,7 @@ thumbal  t.n. india
 thumbalam  t.n. india
 thumbipadi  t.n. india
 thummalgundu  t.n. india
+thunder bay  ont., can.
 thungapuram  t.n. india
 thungavi  t.n. india
 thuraiyur  t.n. india
@@ -2730,7 +4835,10 @@ thurunchapuram  t.n. india
 thuttur  t.n. india
 thuvakkudi  t.n. india
 tilhar  u.p. india
+tillamook  or, usa.
+timbuktu  mali.
 tindivanam  t.n. india
+tipton,  tn, usa.
 tiptur  kar. india
 tirthapalli  kar. india
 tirtol  ori. india
@@ -2745,9 +4853,11 @@ tirumayam  t.n. india
 tirunamanalur  t.n. india
 tirunelvelli  t.n. india
 tirupathur  t.n. india
+tirupati  a.p.india
 tirupattur, north arcot dt. t.n. india
 tirupattur, sivagangai dt.  t.n. india
 tiruppur  t.n. india
+tiruttani  a.p.india
 tirutturaippundi  t.n. india
 tiruvakkarai  t.n. india
 tiruvalla  ker. india
@@ -2756,39 +4866,94 @@ tiruvallur,  t.n. india
 tiruvamur  t.n. india
 tiruvannamalai  t.n. india
 tiruvettipuram  t.n. india
+tiruvuru  a.p.india
 tisatyanvilai  t.n. india
 titilagarh  ori. india
 titron  u.p. india
+toa baja  pr, usa.
+tokyo  jap. india.
+tolland  ct, usa.
 tondi  t.n. india
+tooele  ut, usa.
+toole,  mt, usa.
 topslip  t.n. india
+toronto  ont., can.
+torrance  nm, usa.
+toulon  fran.
+towns  ga, usa.
 travancore  ker. india
+travis  tx, usa.
+trego  ks, usa.
+trempealeau  wi, usa.
+trent  u.k.
 trichendur  t.n. india
 trichur  ker. india
 trichy  t.n. india
+trinity  ca, usa.
+trinity,  tx, usa.
+tripp  sd, usa.
 tripunittura  ker. india
 trivandrum  ker. india
+troup  ga, usa.
+trumbull  oh, usa.
 tsunthang  sik. india
+tudaram  a.p.india
+tulare  ca, usa.
 tumbal  t.n. india
 tumkur  kar. india
 tungabhadra dam  kar. india
+tuni  a.p.india
+tunica  ms, usa.
+tuolumne  ca, usa.
 tura  meg. india
 turaiyur  t.n. india
+turks is  u.k.
+turner,  ga, usa.
 turuvanur  kar. india
+tuscaloosa  al, usa.
+tuscola  mi, usa.
 tuticorin  t.n. india
+tweed  u.k.
+twin falls   id, usa.
+tyler,  wv, usa.
+tyne  u.k.
 uchilampatti  t.n. india
 uchinatham  t.n. india
 uchippuli  t.n. india
 udagamandalam  t.n. india
 udagamandalam, t.n. india
+udainagar  m.p.india
 udaiyarpalayam  t.n. india
 udathupatti  t.n. india
+udayagiri  a.p.india
 udayathur  t.n. india
 udipi  kar. india
 udumalaipettai  t.n. india
 uhtrakosamangai  t.n. india
+uintah  ut, usa.
 ulakani  t.n. india
 ulipuram  t.n. india
+ulster  ny, usa.
 ulundurpettai  t.n. india
+umatilla  or, usa.
+unicoi  tn, usa.
+union  pa, usa.
+union ar  usa.
+union fl  usa.
+union ga  usa.
+union ia  usa.
+union il  usa.
+union in  usa.
+union la  usa.
+union ms  usa.
+union nc  usa.
+union nj  usa.
+union nm  usa.
+union oh  usa.
+union or  usa.
+union sc  usa.
+union sd  usa.
+union tn  usa.
 unjaloor  t.n. india
 unjampatti  t.n. india
 unnathur  t.n. india
@@ -2799,9 +4964,12 @@ uppidamangalam  t.n. india
 uppiliyapuram  t.n. india
 uppinangadi  kar. india
 uppukkottai  t.n. india
+upton  tx, usa.
 urakam  ker. india
+uravanonda  a.p.india
 urigam  t.n. india
 usilampatti  t.n. india
+utah  ut, usa.
 uthamapalayam  t.n. india
 uthanapalli  t.n. india
 uthapuram  t.n. india
@@ -2814,6 +4982,7 @@ uthukuli  t.n. india
 uthumalai  t.n. india
 uttamapalaiyam  t.n. india
 uttangarai  t.n. india
+uvalde  tx, usa.
 vadachitoor  t.n. india
 vadakkadu  t.n. india
 vadakkalur  t.n. india
@@ -2851,12 +5020,16 @@ valasaiyur  t.n. india
 valathottam  t.n. india
 valayar  t.n. india
 valdavur  t.n. india
+valencia,  nm, usa.
 vallam  t.n. india
 vallam, thiruvannamalai dt.  t.n. india
 vallam, villupuram dt.  t.n. india
 vallampadukai  t.n. india
 vallanadhi road  t.n. india
 vallandhai  t.n. india
+valley  id  usa.
+valley  mt  usa.
+valley ne  usa.
 vallikodu  ker. india
 vallimalai  t.n. india
 vallimpatti  t.n. india
@@ -2865,8 +5038,14 @@ vallipuram  t.n. india
 vallur  t.n. india
 valparai  t.n. india
 valuthalunkunam  t.n. india
+van buren  ia, usa.
+van buren  tn  usa.
+van buren mi  usa.
+van buren,  ar, usa.
 vanapuram  t.n. india
 vanchipalayam  t.n. india
+vancouver  b.c., can.
+vancouver i  b.c., can.
 vangal  t.n. india
 vaniyambadi  t.n. india
 vannathipparai  t.n. india
@@ -2878,7 +5057,9 @@ varadhanappalli  t.n. india
 varadhareddipalli  t.n. india
 varakur  t.n. india
 varakur, vellore dt.  t.n. india
+varanasi
 varappatti  t.n. india
+vardannapet  a.p.india
 vargur  t.n. india
 varttirayirupu  t.n. india
 vathalagundu  t.n. india
@@ -2886,6 +5067,8 @@ vathalappatti  t.n. india
 vattakkottai  t.n. india
 vattanam  t.n. india
 vavipalayam  t.n. india
+vayalpad  a.p.india
+vayalpao  a.p.india
 vayittiri  ker. india
 vazhavandhi  t.n. india
 vedachandur  t.n. india
@@ -2904,12 +5087,15 @@ veerapandi  t.n. india
 veerapandi, coimbatore dt.  t.n. india
 veerappatti  t.n. india
 veerasikamani  t.n. india
+vega alta  pr, usa.
+vega baja  pr, usa.
 velakaundanpatti  t.n. india
 velampalayam  t.n. india
 velampoondi  t.n. india
 velanathal  t.n. india
 velankanthal  t.n. india
 velankombai  t.n. india
+veldurti  a.p.india
 velikaram  t.n. india
 velinkode  t.n. india
 velippalayam  t.n. india
@@ -2934,8 +5120,10 @@ vellore  t.n. india
 vellore, paramathi  t.n. india
 vellur, sivagangai dt.  t.n. india
 velore  t.n. india
+velpura  a.p.india
 velur athichanallur  t.n. india
 velwarkottai  t.n. india
+vemalwada  a.p.india
 vembai  t.n. india
 vembakkottai  t.n. india
 vembar  t.n. india
@@ -2944,28 +5132,49 @@ vembathur  t.n. india
 vembur  t.n. india
 vempadithalam  t.n. india
 vempakkam  t.n. india
+vempalle  a.p.india
 vempatthi  t.n. india
+venango  pa, usa.
 venchamangadalore  t.n. india
 venganji  t.n. india
+venice  ital.
 venkadu  t.n. india
 venkal  t.n. india
 venkatachalapuram  t.n. india
+venkatagiri  a.p.india
+venkatagiri kota  a.p.india
+venkatapuram  a.p.india
 venkattankurichy  t.n. india
 vennandur  t.n. india
+ventura  ca, usa.
+venukonda  a.p.india
 veppampatti  t.n. india
 veppanapalli  t.n. india
 veppore  t.n. india
 veralyur  t.n. india
 verayanipatti  t.n. india
+vermilion  il, usa.
+vermilion in  usa.
+vermilion la  usa.
+vernon,  mo,usa.
+vernon.  wi, usa.
+vetapalemu  a.p.india
 vettakkaranpudur  t.n. india
 vettamangalam  t.n. india
 vettavalam  t.n. india
+victoria is  nwt.,can.
+victoria tx  usa.
+victoria.  b.c.,can.
+vigo  in, usa.
 vijayamangalam  t.n. india
+vijayanagram  a.p.india
 vijayanarayanam  t.n. india
 vijayapati  t.n. india
 vijayappatti  t.n. india
 vijayapuram  t.n. india
 vijayapuri  t.n. india
+vijayawada  a.p.india
+vikarabad  a.p.india
 vikrasingapuram  t.n. india
 vikravandi  t.n. india
 vilangudi  t.n. india
@@ -2974,6 +5183,7 @@ vilankalathur  t.n. india
 vilappakkam  t.n. india
 vilathikkulam  t.n. india
 vilayankod  t.n. india
+villalba  pr, usa.
 villathappatti  t.n. india
 villoni  t.n. india
 villupuram  t.n. india
@@ -2982,30 +5192,203 @@ vilukkiri  t.n. india
 vindhyachal  u.p. india
 vinnamangalam  t.n. india
 vinnamangalam, vellore dt.  t.n. india
+vinton  oh, usa.
+vinukonda  a.p.india
 viralimalai  t.n. india
 viralippatti  t.n. india
 virarajendrapet  kar. india
+virgin is  u.k.
 virudhunagar  t.n. india
 viruppachi  t.n. india
 viruthachalam  t.n. india
+vishakhapatnam  a.p.india
 visharam  t.n. india
+vissannapeta  a.p.india
 viswanathaperi  t.n. india
+vizianagaram  a.p.india
+vontimitta  a.p.india
 vriddhachalam  t.n. india
 vrindavan  u.p. india
 vuluvoor  t.n. india
+vuyyuru  a.p.india
+wabash  in, usa.
+wabaunsee  ks, usa.
+wadena  mn, usa.
 wadi  kar. india
+wagoner  ok, usa.
 walajapet  t.n. india
+waldo  me, usa.
+walker,  ga, usa.
+walla walla  wa, usa.
+waller  tx, usa.
+wallis & futuna  fran.
+wallowa  or, usa.
+waltair  a.p.india
 walterganj  u.p. india
+walthall  ms, usa.
+walton  fl, usa.
+walworth  wi, usa.
 wandiwash  t.n. india
+wanparti  a.p.india
+warangal  a.p.india
+ward  tx, usa.
+warren ga  usa.
+warren il  usa.
+warren in  usa.
+warren ky  usa.
+warren mo  usa.
+warren nc  usa.
+warren nj  usa.
+warren ny  usa.
+warren oh  usa.
+warren pa  usa.
+warren va  usa.
+wasatch  ut, usa.
+wasco  or, usa.
+waseca  mn, usa.
+washakie  wy, usa.
+washburn  wi, usa.
+washington  ms, usa.
+washington al  usa.
+washington ar  usa.
+washington dc  usa.
+washington fl  usa.
+washington ga  usa.
+washington ia  usa.
+washington id  usa.
+washington il  usa.
+washington in  usa.
+washington ks  usa.
+washington ky  usa.
+washington la  usa.
+washington md  usa.
+washington me  usa.
+washington mn  usa.
+washington mo  usa.
+washington nc  usa.
+washington ne  usa.
+washington ny  usa.
+washington oh  usa.
+washington ok  usa.
+washington pa  usa.
+washington ri  usa.
+washington tn  usa.
+washington tx  usa.
+washington ut  usa.
+washington va  usa.
+washington vt  usa.
+washington wi  usa.
+washington,  d.c.,dc,usa.
+washita  ok, usa.
+washoe  nv, usa.
+watcom  wa, usa.
+waukesha  wi, usa.
+waupaca  wi, usa.
+wayne ga  usa.
+wayne in  usa.
+wayne ky  usa.
+wayne mi  usa.
+wayne mo  usa.
+wayne ms  usa.
+wayne nc  usa.
+wayne ne  usa.
+wayne ny  usa.
+wayne oh  usa.
+wayne pa  usa.
+wayne tn  usa.
+wayne wv  usa.
+webster  ky  usa.
+webster  mo  usa.
+webster ia  usa.
+webster ms  usa.
+webster ne  usa.
+webster wv  usa.
 wellington lake  t.n. india
+western is  u.k.
+westmoreland  va, usa.
+westmoreland,  pa, usa.
+weston,  wy, usa.
+wharfe  u.k.
+wharton  tx, usa.
+wheeler ga  usa.
+wheeler or  usa.
+wheeler tx  usa.
+white ar  usa.
+white ga  usa.
+white il  usa.
+white in  usa.
+white pine  nv, usa.
+white tn  usa.
+whitehorse  y.t.,can.
+whitley  ky, usa.
+whitman  wa, usa.
+wicomico  md, usa.
+wight  u.k.
+wilcox  al, usa.
+wilkinson  ms, usa.
+will  il, usa.
+williamsburg  sc, usa.
+williamsburg,  va, usa.
+williamson,  tx, usa.
+wilson ks  usa.
+wilson tn  usa.
+wilson tx  usa.
+windham  vt, usa.
+windham,  ct, usa.
+windsor  vt, usa.
+winkler  tx, usa.
+winnebago  wi, usa.
+winston  ms, usa.
+wise  tx, usa.
+wolfe  ky, usa.
+wood  wv, usa.
+wood oh  usa.
+wood tx  usa.
+wood wi  usa.
+woodford,  ky, usa.
+woodson  ks, usa.
+woodward  ok, usa.
+worcester  ma, usa.
+worth.  mo, usa.
+wrangell-petersburg  ak, usa.
+wright ia  usa.
+wright mn  usa.
+wright mo  usa.
+wurzburg  ger.
+wyoming pa  usa.
+wyoming wv  usa.
+wythe  va, usa.
+yabucoa  pr, usa.
 yadgir  kar. india
+yadiki  a.p.india
+yakima  wa, usa.
+yallareddi  a.p.india
+yalobusha  ms, usa.
 yalvigi  kar. india
+yamhill  or, usa.
+yanam  a.p.india
+yankton  sd, usa.
+yavapai  az, usa.
 yedatore  kar. india
 yelandur  kar. india
+yellandu  a.p.india
 yellapur  kar. india
+yellareddi  a.p.india
 yenur  kar. india
 yercaud  t.n. india
 yergara  kar. india
 yeriyodu  t.n. india
+yernagudem  a.p.india
 yerwadi  t.n. india
+yoakum  tx, usa.
+yokohama  jap. india.
+yokosuka  jap. india.
+york me  usa.
+york ne  usa.
+york pa  usa.
+york sc  usa.
+york va  usa.
+yuba  ca, usa.
+yuma,  az, usa.
+zahirabad  a.p.india
 zalkhi  kar. india
