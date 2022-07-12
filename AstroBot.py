@@ -68,7 +68,7 @@ async def print_confirm(update: Update, _: CallbackContext):
                 keyboard = [['அனுப்பு'],['ரத்து செய்']]
                 await update.message.reply_text(msg, reply_markup=ReplyKeyboardMarkup(keyboard), resize_keyboard=True, one_time_keyboard=True)
             else:
-                await update.message.reply_text(msg, reply_markup=reply_markup)
+                await update.message.reply_text(msg, reply_markup=global_reply_markup)
     except:
         await update.message.reply_text("Error on processing...", reply_markup=ReplyKeyboardRemove())
 
