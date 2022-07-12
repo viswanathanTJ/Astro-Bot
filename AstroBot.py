@@ -128,7 +128,8 @@ def main() -> None:
     for chat_id in chat_ids:
         requests.post(
             url='https://api.telegram.org/bot{0}/sendMessage'.format(TOKEN, "sendMessage"),
-            data={'chat_id': chat_id, 'text': 'கணிணி ஆன் ஆகிவிட்டது'}
+            data={'chat_id': chat_id, 'text': 'PC powered on'}
+            # data={'chat_id': chat_id, 'text': 'கணிணி ஆன் ஆகிவிட்டது'}
         )
     app = Application.builder().token(TOKEN).read_timeout(15).build()
     delimiter = "(\/|-|\.|\s|,)"
